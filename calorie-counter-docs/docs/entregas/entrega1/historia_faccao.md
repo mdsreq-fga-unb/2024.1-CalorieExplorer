@@ -2,7 +2,7 @@
 
 ## Brasão da Facção
 
-<img src="/assets/logo.jpeg">
+<img src="calorie-counter-docs/docs/assets/logo.jpeg">
 
 ## Personagens
 
