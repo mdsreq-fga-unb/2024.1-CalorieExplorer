@@ -18,10 +18,6 @@
     margin-right: auto;
   }
   
-  tr:nth-child(odd) {
-    background: #f8f8f8;
-  }
-  
   td,
   th {
     text-align: center !important;
