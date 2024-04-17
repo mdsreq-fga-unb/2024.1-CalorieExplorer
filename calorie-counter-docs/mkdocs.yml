@@ -1,0 +1,16 @@
+site_name: Calorie Counter
+
+nav:
+  - Home: index.md
+  - Visão do Produto e Projeto: 
+    - Visão do Produto: visao_produto_projeto\processo_dev\processo_dev.md
+    - Visão do Projeto: visao_produto_projeto\visao_produto\visao_produto.md
+    - Processo de Desenvolvimento: visao_produto_projeto\processo_dev\processo_dev.md
+  - Entregas:
+    - Entrega 1: entregas/entrega1.md
+  
+
+theme:
+  name: material
+  language: "pt"
+  favicon: assets/logo.ico
