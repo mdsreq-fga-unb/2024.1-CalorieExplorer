@@ -1,17 +1,54 @@
 # Calorie Counter
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Nosso projeto
 
-## Commands
+Calorie Counter é um projeto desenvolvido pela equipe "Relic Founders" durante a disciplina de Requisitos de software no semestre 2024/1. Acesse o nosso [GitHub](https://github.com/mdsreq-fga-unb/2024.1-CalorieExplorer).
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Equipe
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<div style="display: flex; flex-direction: row; gap: 50px; flex-wrap: wrap; justify-content: center;" >
+    <div>
+        <a href="https://github.com/an4catarina">
+                <img style="border-radius: 50%;"         src="https://github.com/an4catarina.png" width="120px;"/>
+                <h5 class="text-center">Ana Catarina Santos</h5>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/AJCGassassin">
+                <img style="border-radius: 50%;"         src="https://github.com/AJCGassassin.png" width="120px;"/>
+                <h5 class="text-center">André Joao C Gomes</h5>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/erteduarda">
+                <img style="border-radius: 50%;"         src="https://github.com/erteduarda.png" width="120px;"/>
+                <h5 class="text-center">Eduarda Tavares</h5>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/Filipe-002">
+                <img style="border-radius: 50%;"         src="https://github.com/Filipe-002.png" width="120px;"/>
+                <h5 class="text-center">Filipe Carvalho</h5>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/maquinaAgricula">
+                <img style="border-radius: 50%;"         src="https://github.com/maquinaAgricula.png" width="120px;"/>
+                <h5 class="text-center">Igor Justino</h5>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/NickGehjk">
+                <img style="border-radius: 50%;"         src="https://github.com/NickGehjk.png" width="120px;"/>
+                <h5 class="text-center">Nicolas Bonfim</h5>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/pedro-hsf">
+                <img style="border-radius: 50%;"         src="https://github.com/pedro-hsf.png" width="120px;"/>
+                <h5 class="text-center">Pedro Henrique</h5>
+        </a>
+    </div>
+</div>
+    
+</center>
