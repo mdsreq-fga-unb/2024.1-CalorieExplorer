@@ -1,9 +1,9 @@
 site_name: Calorie Counter
 
 nav:
-  - Home: index.md
+  - Início: index.md
   - Visão do Produto e Projeto: 
-    - Visão do Produto: visao_produto_projeto/processo_dev/processo_dev.md
+    - Visão do Produto: visao_produto_projeto/visao_produto/visão_produto.md
     - Visão do Geral do Projeto: visao_produto_projeto/visao_produto/visao_produto.md
     - Processo de Desenvolvimento: visao_produto_projeto/processo_dev/processo_dev.md
   - Entregas:
@@ -14,3 +14,22 @@ theme:
   name: material
   language: "pt"
   favicon: assets/logo.ico
+  logo: assets/logo.ico
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: "Montserrat"
+    code: "sans-serif"
+extra_css:
+  - stylesheets/extra.css
