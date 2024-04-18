@@ -52,5 +52,5 @@
 
 | Data       | Versão | Descrição                                                                                                                                  | Autor                                                |
 | ---------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- |
-| 17/04/2025 | 1.0    | Criação do documento                                                                                                                       | Ana Catarina Santos                                  |
-| 17/04/2025 | 1.1    | Preenchimento da organização do projeto, planejamneto das fases, matriz de comunicação, gerenciamento de riscos, critérios de planejamento | Ana Catarina Santos, Eduarda Tavares, Pedro Henrique |
+| 17/04/2024 | 1.0    | Criação do documento                                                                                                                       | Ana Catarina Santos                                  |
+| 17/04/2024 | 1.1    | Preenchimento da organização do projeto, planejamneto das fases, matriz de comunicação, gerenciamento de riscos, critérios de planejamento | Ana Catarina Santos, Eduarda Tavares, Pedro Henrique |
