@@ -52,11 +52,10 @@ Objetivos Específicos:
 | Teams       | Para fazer os vídeos quer foram necessários;           |
 | GitHub      | Repositório e Documentação do projeto;                 |
 | VsCode      | Para desenvolver o projeto;                            |
-| GitHub      | Repositório e Documentação do projeto;                 |
 | Replit      | Para desenvolver o projeto;                            |
 
 # Histórico de Versão
 
 | Data       | Versão | Descrição                                  | Autor              |
 | ---------- | ------ | ------------------------------------------ | ------------------ |
-| 17/04/2025 | 1.0    | Criação do documento e adição dos detalhes | André Joao C Gomes |
+| 17/04/2024 | 1.0    | Criação do documento e adição dos detalhes | André Joao C Gomes |
