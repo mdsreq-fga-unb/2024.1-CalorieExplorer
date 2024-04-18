@@ -9,11 +9,14 @@ nav:
     - Visão do Produto: visao_produto_projeto/visao_produto/visao_produto.md
     - Visão do Geral do Projeto: visao_produto_projeto/visao_projeto/visao_projeto.md
     - Processo de Desenvolvimento: visao_produto_projeto/processo_dev/processo_dev.md
+  - Apresentações:
+    - Missão 1:
+      - Apresentação: apresentacoes/missao1/apresentacao1.md
+      - Lições Aprendidas: apresentacoes/missao1/licoes_aprendidas.md
   - Entregas:
-    - Entrega 1: 
+    - Entregas Missão 1: 
       - História da Facção: entregas/entrega1/historia_faccao.md
       - Processos ESW: entregas/entrega1/slides_esw.md
-      - Lições Aprendidas: entregas/entrega1/licoes_aprendidas.md
 
   
 
