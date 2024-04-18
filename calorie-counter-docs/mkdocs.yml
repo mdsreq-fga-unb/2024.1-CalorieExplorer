@@ -11,8 +11,9 @@ nav:
     - Processo de Desenvolvimento: visao_produto_projeto/processo_dev/processo_dev.md
   - Entregas:
     - Entrega 1: 
-      - História da Facção: entregas\entrega1\historia_faccao.md
-      - Lições Aprendidas: entregas\entrega1\licoes_aprendidas.md
+      - História da Facção: entregas/entrega1/historia_faccao.md
+      - Processos ESW: entregas/entrega1/slides_esw.md
+      - Lições Aprendidas: entregas/entrega1/licoes_aprendidas.md
 
   
 
