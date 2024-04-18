@@ -10,7 +10,10 @@ nav:
     - Visão do Geral do Projeto: visao_produto_projeto/visao_projeto/visao_projeto.md
     - Processo de Desenvolvimento: visao_produto_projeto/processo_dev/processo_dev.md
   - Entregas:
-    - Entrega 1: entregas/entrega1.md
+    - Entrega 1: 
+      - História da Facção: entregas\entrega1\historia_faccao.md
+      - Lições Aprendidas: entregas\entrega1\licoes_aprendidas.md
+
   
 
 theme:
