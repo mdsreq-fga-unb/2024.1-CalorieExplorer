@@ -12,6 +12,56 @@ A característica exploratória deste projeto se traduz na participação ativa 
 
 ## Planejamento de requisitos
 
+Esta etapa é voltada para a coleta, indução de feedback, dados dos usuários, que são essenciais para a formulação dos requisitos. A etapa prossegue com a análise desses dados brutos e o ajuste dos interesses dos stakeholders, comunicando os requisitos aos envolvidos, com uma clara distinção entre requisitos funcionais e não funcionais e fornecendo níveis adequados de detalhamento.
+
+| Atividade                | Método                    | Ferramenta               | Entrega                             |
+|--------------------------|---------------------------|--------------------------|-------------------------------------|
+| Descoberta e levantamento | Nominal Group Technique   | Discord e Figma          | Backlog dos Requisitos Brutos      |
+| Coleta e identificação   | Reunião Síncrona          | Discord                  | Backlog dos Requisitos avaliados   |
+| Especificação            | Separação por granularidade | Discord e Google Docs | Todos os requisitos representados em user stories |
+
+
+## User Design
+
+Através da apresentação dos protótipos ao cliente e da coleta de feedback, o processo de desenvolvimento se torna interativo, permitindo ajustes e melhorias contínuas até que o sistema final seja alcançado.
+
+| Atividade       | Método                    | Ferramenta   | Entrega                            |
+|-----------------|---------------------------|--------------|------------------------------------|
+| Representação   | Protótipo da ferramenta  | Figma        | Simulação interativa avançada      |
+
+
+## Construção
+
+Etapa do projeto em que, após coleta e definição dos requisitos nas fases de análise, é feita a implementação e realização dos tais. Podemos definir a etapa em 4 atividades:
+
+- Desenvolvimento/codificação: aqui, os programadores começam a codificar com base nos requisitos especificados, para implementar as funcionalidades exigidas durante a fase de análise, além dos demais processos e interfaces;
+
+- Revisão/reavaliação de requisitos: pode-se ser necessário, durante o desenvolvimento, revisar os requisitos para verificar sua viabilidade, precisão ou para incorporar novas informações obtidas durante o desenvolvimento. Isso pode incluir ajustes nos requisitos para refletir melhor as necessidades do usuário ou as limitações técnicas descobertas durante a implementação.
+
+- Teste de componentes: os devidos componentes criados passam por fases de testes para verificar sua devida funcionalidade, a fim de buscar erros, problemas na lógica, tempo de execução, entre outros;
+
+- Integração: Após os componentes serem desenvolvidos e testados, eles são integrados para formar o sistema completo ou partes maiores do sistema. Também envolve testes.
+
+
+| Atividade                   | Método                             | Ferramenta                              | Entrega                                |
+|-----------------------------|------------------------------------|-----------------------------------------|----------------------------------------|
+| Verificação e validação     | Checklist, DEEP e INVEST           | Discord e Google docs                   | Backlog na estrutura SAFe             |
+| Desenvolvimento             | PairProgramming                    | IDE (VSCode, NetBeans, etc)            | Codificação do produto                |
+| Revisão de requisitos       | Pair Review, Leitura Crítica, Brainstorming | Miro (registro de ideias), Discord (reuniões) | Conclusão sobre alterar ou não os requisitos |
+| Teste de componentes        | Unidade, Usabilidade, Aceitação    | Jest, Puppeteer, Hotjar                | Resultados positivos dos testes       |
+| Integração                  | Arquivo, por banco de dados, por API | Postman, Apache Kafka, Camel         | Funcionalidades mínimas do sistema operantes |
+
+
+## Transição
+
+Etapa do projeto que visa a entrega final do software para o cliente, podendo atravessar várias iterações, incluindo testes e ajustes baseados nos feedbacks dos usuários.
+
+| Atividade                     | Método                          | Ferramenta     | Entrega                            |
+|-------------------------------|---------------------------------|----------------|------------------------------------|
+| Organização e Atualização    | Análise de valor de negócio    | Google sheets  | Backlog priorizado e Proposta de MVP |
+
+
+
 
 ## Histórico de versão
 
