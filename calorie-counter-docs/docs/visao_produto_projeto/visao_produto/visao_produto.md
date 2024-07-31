@@ -27,16 +27,15 @@ Como benefício, buscamos facilitar escolhas alimentares conscientes, auxilia na
 # Objetivos do Produto
 
 Objetivo Principal: 
-- Desenvolver um site de simples entedimento, prático e completo;
-- Fazer com que os pacientes tenham acesso a informações cruciais sem depender diretamente do nutricionista;
-- Desenvolver uma forma de será editar a dieta, dependo da quantidade de calorias e nutrientes.
-- Fazer um registro de consultas, seja as que o paciente foi ou as que ele perdeu.
+- Desenvolver um site, simples porém, completo;
+- Desenvolver um meio fácil do paciente ter acesso as informações da sua dieta sem depender do nutricionista;
+- Fazer um página que seja dedicada ao cronograma da dieta, e que haja como editar a dieta por alimentos parecidos no teor calórico.
+- Nessa mesma página dedicada ao cronograma, terá uma parte para ver as consultas perdidas e as que compareceu.
 
 Objetivos Específicos:
 
-- Fazer com que o site, além de prático, fosse intuitivo, para que qualquer um consiga entender;
-- Fazer uma implementação cálculos que ajude na dieta,como por exemplo quantidade de água que a pessoa precisará tomar com base em seu peso, quantidade de proteína, carboidrato, lipídios etc que deverá ser consumido diariamente.
-- Desenvolver em uma parte do site, a quantide de Kcal de cada alimento por uma determinada proporção.
+- Fazer um Back-End que implemente cálculos que ajudarão na dieta, por exemplo quantidade de água que a pessoa precisará tomar com base em seu peso, quantidade de proteína, carboidrato, lipídios etc que deverá ser consumido diariamente.
+- Desenvolver algumas páginas que mostrem a quantidade de calorias dos alimentos por quantidade.
 
 # Tecnologias Utilizadas
 
