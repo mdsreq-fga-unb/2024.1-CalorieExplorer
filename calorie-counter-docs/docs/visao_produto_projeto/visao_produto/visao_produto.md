@@ -22,7 +22,7 @@ Como benefício, buscamos facilitar escolhas alimentares conscientes, auxilia na
 | O CalorieExplorer | é voltado para a área de saúde.                                                                       |
 | Que               | busca auxiliar a vida nutricional do paciente.                                                        |
 | Ao contrário      | do WebDiet,                                                                                           |
-| Nosso produto     | facilita a gestão de aspectos importantes da dieta pelo paciente.                                     |
+| Nosso produto     | facilita  o controle da dieta tanto por parte do paciente quanto por parte do nutricionista.                                     |
 
 # Objetivos do Produto
 
