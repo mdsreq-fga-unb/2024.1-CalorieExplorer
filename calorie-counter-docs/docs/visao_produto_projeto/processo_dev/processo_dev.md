@@ -10,6 +10,8 @@ O processo será estruturado em iterações, reconhecendo que os requisitos aind
 
 A característica exploratória deste projeto se traduz na participação ativa das partes interessadas em todas as etapas, o que viabiliza a evolução contínua dos requisitos.
 
+As etapas serão inicializadas após a finalização da etapa anterior e o planejamento de requisitos já começou a ser desenvolvido.
+
 ## Planejamento de requisitos
 
 Esta etapa é voltada para a coleta, indução de feedback, dados dos usuários, que são essenciais para a formulação dos requisitos. A etapa prossegue com a análise desses dados brutos e o ajuste dos interesses dos stakeholders, comunicando os requisitos aos envolvidos, com uma clara distinção entre requisitos funcionais e não funcionais e fornecendo níveis adequados de detalhamento.
