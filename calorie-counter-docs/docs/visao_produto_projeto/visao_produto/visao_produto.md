@@ -36,6 +36,10 @@ Objetivos Específicos:
 
 - Fazer um Back-End que implemente cálculos que ajudarão na dieta, por exemplo quantidade de água que a pessoa precisará tomar com base em seu peso, quantidade de proteína, carboidrato, lipídios etc que deverá ser consumido diariamente.
 - Desenvolver algumas páginas que mostrem a quantidade de calorias dos alimentos por quantidade.
+- Facilitar o acesso dos pacientes às suas informações dietéticas, promovendo autonomia e continuidade no acompanhamento da dieta.
+- Proporcionar uma plataforma onde pacientes possam visualizar e ajustar seu cronograma alimentar de forma intuitiva, substituindo alimentos por opções de teor calórico semelhante.
+- Criar uma seção dedicada ao cronograma de dieta, permitindo aos pacientes monitorar e editar suas refeições diárias com facilidade.
+- Incluir um histórico de consultas na mesma página do cronograma, permitindo que os pacientes acompanhem suas consultas passadas e futuras, melhorando o engajamento e o cumprimento das recomendações nutricionais.
 
 # Tecnologias Utilizadas
 
