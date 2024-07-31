@@ -16,6 +16,8 @@ Nosso público-alvo inclui pessoas interessadas em saúde e condicionamento fís
 
 Como benefício, buscamos facilitar escolhas alimentares conscientes, auxilia na conquista de objetivos de saúde e condicionamento físico e oferece orientações personalizadas para um gerenciamento eficaz da dieta e nutrição.
 
+O diferencial é disponibilizar uma plataforma gratuita que a nutricionista possa indicar aos seus pacientes, proporcionando-lhes autonomia no acompanhamento de suas dietas e controle calórico de maneira eficaz e acessível.
+
 | Para              | Pacientes Nutricionais                                                                                |
 | ----------------- | ----------------------------------------------------------------------------------------------------- |
 | Quem              | tem dificuldades na gestão da dieta e nutrição para alcançar metas de saúde e condicionamento físico. |
