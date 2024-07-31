@@ -26,14 +26,17 @@ Como benefício, buscamos facilitar escolhas alimentares conscientes, auxilia na
 
 # Objetivos do Produto
 
-Objetivo Principal: O site deverá facilitar aos pacientes o acesso a informações cruciais sem depender diretamente do nutricionista. Uma vez que o cronograma de dieta tenha sido prescrito ao paciente, ele poderá modificá-la com base na quantidade de calorias necessárias em cada refeição. Além disso, o paciente terá acesso a áreas adicionais para consultar dados que foram fornecidos a ele, mas que podem ter sido esquecidos ou perdidos, o que tornará o processo mais eficiente para ambas as partes.
+Objetivo Principal: 
+- Desenvolver um site de simples entedimento, prático e completo;
+- Fazer com que os pacientes tenham acesso a informações cruciais sem depender diretamente do nutricionista;
+- Desenvolver uma forma de será editar a dieta, dependo da quantidade de calorias e nutrientes.
+- Fazer um registro de consultas, seja as que o paciente foi ou as que ele perdeu.
 
 Objetivos Específicos:
 
-- Fazer um site com a interface de fácil entendimento;
-- Conseguir implementar cálculos que ajudaram na dieta, por exemplo quantidade de água que a pessoa precisará tomar com base em seu peso, quantidade de proteína, carboidrato, lipídios etc que deverá ser consumido diariamente.
-- Conseguir também mostrar a quantidade de Kcal que cada alimento tem por alguma quantidade, por exemplo, 64 Kcal para cada 100g de tal alimento consumido.
-- Com esse propósito, o projeto será um auxílio adicional ao nutricionista, possibilitando mais autonomia aos pacientes de forma segura, dinâmica e eficiente.
+- Fazer com que o site, além de prático, fosse intuitivo, para que qualquer um consiga entender;
+- Fazer uma implementação cálculos que ajude na dieta,como por exemplo quantidade de água que a pessoa precisará tomar com base em seu peso, quantidade de proteína, carboidrato, lipídios etc que deverá ser consumido diariamente.
+- Desenvolver em uma parte do site, a quantide de Kcal de cada alimento por uma determinada proporção.
 
 # Tecnologias Utilizadas
 
