@@ -1,0 +1,17 @@
+# Product Backlog
+
+| ID  | História de Usuário                                                                                              | Critérios de Aceitação                                                                                                            | Prioridade |
+|-----|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|------------|
+| 1   | **Como** usuário, **eu quero** pesquisar por alimentos específicos **para** ver substituições e formas de compensar minha escolha | - Campo de busca para inserir o nome do alimento.<br>- Resultados da busca mostram alternativas mais saudáveis ou menos calóricas.<br>- Resultados da busca mostram opções de compensação, como exercícios ou outros ajustes alimentares. | Alta       |
+| 2   | **Como** usuário, **eu quero** ver os detalhes nutricionais do alimento **para** entender melhor o impacto de consumi-lo | - Exibição de informações nutricionais (calorias, macronutrientes, etc.).<br>- Sugestões de substituições.<br>- Sugestões de atividades para compensação calórica. | Alta       |
+| 3   | **Como** usuário, **eu quero** receber recomendações de substituições baseadas nas minhas preferências e restrições alimentares **para** ter sugestões mais relevantes para minha dieta | - Perfil de usuário com preferências alimentares e restrições (ex.: vegetariano, intolerância à lactose).<br>- Recomendações personalizadas baseadas no perfil do usuário.<br>- Possibilidade de ajustar preferências a qualquer momento. | Alta       |
+| 4   | **Como** usuário, **eu quero** integrar meu aplicativo de contagem de calorias ao site **para** registrar automaticamente as substituições e compensações | - Integração com aplicativos populares de contagem de calorias (ex.: MyFitnessPal, Lose It!).<br>- Sincronização automática de dados de substituições e compensações.<br>- Feedback em tempo real sobre o impacto das escolhas no balanço calórico diário. | Média      |
+| 5   | **Como** usuário, **eu quero** receber alertas e lembretes sobre minhas escolhas alimentares **para** me manter no caminho certo com minhas metas de saúde | - Notificações push ou por e-mail para lembretes de compensação.<br>- Alertas sobre escolhas alimentares que não estão alinhadas com as metas do usuário.<br>- Personalização das notificações (frequência, tipo de alerta). | Média      |
+| 6   | **Como** usuário, **eu quero** acessar uma biblioteca de artigos e receitas saudáveis **para** aprender mais sobre alimentação saudável e encontrar novas ideias de refeições | - Biblioteca organizada por categorias (ex.: refeições principais, lanches, sobremesas).<br>- Artigos sobre nutrição e bem-estar.<br>- Receitas com informações nutricionais detalhadas. | Média      |
+| 7   | **Como** usuário, **eu quero** deixar feedback sobre as substituições e compensações sugeridas **para** ajudar a melhorar o serviço e a relevância das recomendações | - Opção de avaliar cada substituição e sugestão de compensação.<br>- Comentários para fornecer feedback adicional.<br>- Visualização de avaliações de outros usuários. | Baixa      |
+
+# Histórico de Versão
+
+| Data       | Versão | Descrição                                  | Autor              |
+| ---------- | ------ | ------------------------------------------ | ------------------ |
+| 31/07/2024 | 1.0    | Criação do documento | Nicolas Bomfim Dais Bandeira |
