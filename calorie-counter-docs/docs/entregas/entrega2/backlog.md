@@ -5,6 +5,7 @@
 | Data       | Versão | Descrição                                  | Autor              |
 | ---------- | ------ | ------------------------------------------ | ------------------ |
 | 31/07/2024 | 0.1    | Criação do Backlog e ajustes do MK-Docs    | André João C Gomes |
+| 13/08/2024 | 0.2    | Ajustes do Backlog                         | André João C Gomes |
 
 O backlog do produto é uma lista com todos os requisitos, não necessariamente só os necessários para o desenvolvimento do projeto. O backlog contém: epics, features e users stories. Bem como, caso haja necessidade de mudança no produto, o backlog seria a fonte principal.
 
@@ -24,6 +25,16 @@ Os requisitos funcionais são, de certa forma, as funcionalidades mínimas e má
 |[EP01] Gestão da dieta| Pesquisa e criação da dieta|[US02] Eu, como cliente, quero conseguir ver os alimentos da minha dieta e ver se dar para trocar por outras opções.| 10 | 6 | 9 | 8.3 |
 |[EP01] Gestão da dieta|Agendamento|[US03]Eu, como gerente, quero poder marcar o horário da consulta, e altera-la, caso necessário. e que haja uma agenda para facilitar isso.| 7 | 6 | 10 | 7.6 |
 |[EP01] Gestão da dieta|Agendamento|[US04] Eu, como cliente, quero poder ver quando minha consulta foi marcada, se eu perdi a minha consulta ou se ela foi alterada para algum outro dia, e se possível, receber uma mensagem ou ligação quando estiver perto da minha consulta.| 6 | 8 | 7 | 7 |
+|[EP02] Gerenciar Site|Páginas Principais|[US05] Eu, como gerente, quero que o estilo do site condiga com o estilo do meu local de trabalho.| 10 | 10 | 10 | 10|
+|[EP02] Gerenciar Site|Páginas Principais|[US06] Eu, como gerente, quero que pelo menos tenha 5 alimentos de cada categoria(Proteína, carboidrato, lipídio etc)| 9 | 9 | 9 | 9 |
+|[EP02] Gerenciar Site|Páginas Principais|[US07] Eu, como cliente, quero um site intuitivo, de fácil entendimento e que não tenha muita coisa na tela| 10 | 7 | 8 | 8.3|
+|[EP02] Gerenciar Site|Tela cadastro/login|[US08] Eu como gerente, quero que na tela de cadastro tenha como requisito, cpf, nome completo, idade, gênero, email, peso, altura| 8 | 7 | 8 | 7.6 |
+|[EP02] Gerenciar Site|Tela cadastro/login|[US09] Eu como gerente, quero uma pagina de login separada apena para mim, deixando separado o login dos pacientes e de mim| 9 | 6 | 7 | 7.3 |
+
+
+
+
+
 
 # Critérios de Aceitação
 
@@ -33,6 +44,11 @@ Os requisitos funcionais são, de certa forma, as funcionalidades mínimas e má
 |[US02]|Visão dos Alimentos|O site além de mostrar os produtos e suas calorias, deverá conter uma opção que dê para mostrar pelo menos 2 alimentos que substituam o alimento que o paciente não gostar;|
 |[US03]|Agendamento das Consultas| No site deverá conter uma página especial, que somente a nutricionista terá acesso, para poder por a data da consulta marcada, e edita-la, caso venha a ser necessário;|
 |[US04]|Pagina Perfil| No site haverá uma pagina de perfil apenas para os clientes, nela será visto algumas informações pessoais do cliente, além de sua dieta e dos dias que estão marcadas suas próximas consultas, bem como aquelas que ele já compareceu;|
+|[US05]|Estilo do Site| O estilo/cor do site deverá ser compátivel com o local de trabalho da gerente, bem como se possível, imagens do consultório e da nutricionista|
+|[US06]|Quantidade de alimento| O site deve conter diversos alimentos da mesma categoria, para que haja uma diversificada maior de alimentos caso necessário, como por exemplo alergia/intolerância, não gosta de comer determinado alimento|
+|[US07]|Simplicidade no site| O site deverá ser completo, bonito, porém, sem ter muita poluição visual, com muita coisa na tela ao mesmo tempo|
+|[US08]|Cadastro| A página de cadastro deverá conter as informações principais e necessárias para a nutricionista, como o objetivo para fazer a dieta, o peso, altura e idade da pessoa|
+|[US09]|logins Separados|Deverá ter 2 entradas de login, uma para os pacientes, e outra para a nutricionista assim separa os perfils de cada parte|
 
 # Requisitos Não Funcionais
 
