@@ -11,7 +11,7 @@ nav:
     - Processo de Desenvolvimento: visao_produto_projeto/processo_dev/processo_dev.md
   - Backlog:
     - Definições: backlog/definicoes.md
-    - Requisitos e critérios: backlog/req_criterios.md
+    - Backlog do Produto: backlog/req_criterios.md
     - MPV: backlog/mpv.md
   - Apresentações:
     - Missão 1:

@@ -1,4 +1,4 @@
-# BackLog do Produto
+# Backlog do Produto
 
 # Personas
 
@@ -37,7 +37,7 @@ Requisitos não funcionais definem como um sistema deve operar, em vez de o que 
 
 # Backlog do produto
 
-1. Temas
+Temas
 
 | Código | Tema                    | Descrição                                                                 |
 | ------ | ----------------------- | ------------------------------------------------------------------------- |
@@ -46,7 +46,7 @@ Requisitos não funcionais definem como um sistema deve operar, em vez de o que 
 | TH03   | Experiência do Usuário  | Funcionalidades focadas na experiência e interface do usuário.            |
 | TH04   | Gerenciamento do Site   | Funcionalidades relacionadas ao gerenciamento e configuração do site.     |
 
-2. Épicos
+Épicos
 
 | Código do Tema | Código do Épico | Descrição                                  |
 | -------------- | --------------- | ------------------------------------------ |
@@ -65,7 +65,7 @@ Requisitos não funcionais definem como um sistema deve operar, em vez de o que 
 | TH04           | EP13            | Exportação de Relatórios                   |
 | TH04           | EP14            | Categorias de Alimentos                    |
 
-3. Histórias de Usuário
+Histórias de Usuário
 
 | Código do Tema | Código do Épico | ID   | História de Usuário                                                                                                                                              | Prioridade Média \* |
 | -------------- | --------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
