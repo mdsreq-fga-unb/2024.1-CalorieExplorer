@@ -9,6 +9,10 @@ nav:
     - Visão do Produto: visao_produto_projeto/visao_produto/visao_produto.md
     - Visão do Geral do Projeto: visao_produto_projeto/visao_projeto/visao_projeto.md
     - Processo de Desenvolvimento: visao_produto_projeto/processo_dev/processo_dev.md
+  - Backlog:
+    - Definições: backlog/definicoes.md
+    - Requisitos e critérios: backlog/req_criterios.md
+    - MPV: backlog/mpv.md
   - Apresentações:
     - Missão 1:
       - Apresentação: apresentacoes/missao1/apresentacao1.md
@@ -17,8 +21,6 @@ nav:
     - Entregas Missão 1: 
       - História da Facção: entregas/entrega1/historia_faccao.md
       - Processos ESW: entregas/entrega1/slides_esw.md
-    - Entregas Missão 2:
-      - Backlog: entregas/entrega2/backlog.md
 
   
 

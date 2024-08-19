@@ -20,12 +20,6 @@ Calorie Counter é um projeto desenvolvido pela equipe "Relic Founders" durante 
         </a>
     </div>
     <div>
-        <a href="https://github.com/erteduarda">
-                <img style="border-radius: 50%;"         src="https://github.com/erteduarda.png" width="120px;"/>
-                <h5 class="text-center">Eduarda Tavares</h5>
-        </a>
-    </div>
-    <div>
         <a href="https://github.com/Filipe-002">
                 <img style="border-radius: 50%;"         src="https://github.com/Filipe-002.png" width="120px;"/>
                 <h5 class="text-center">Filipe Carvalho</h5>
@@ -40,7 +34,7 @@ Calorie Counter é um projeto desenvolvido pela equipe "Relic Founders" durante 
     <div>
         <a href="https://github.com/NickGehjk">
                 <img style="border-radius: 50%;"         src="https://github.com/NickGehjk.png" width="120px;"/>
-                <h5 class="text-center">Nicolas Bonfim</h5>
+                <h5 class="text-center">Nicolas Bomfim</h5>
         </a>
     </div>
     <div>
