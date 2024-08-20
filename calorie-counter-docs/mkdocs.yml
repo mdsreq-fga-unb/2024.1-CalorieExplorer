@@ -17,6 +17,9 @@ nav:
     - Missão 1:
       - Apresentação: apresentacoes/missao1/apresentacao1.md
       - Lições Aprendidas: apresentacoes/missao1/licoes_aprendidas.md
+    - Missão 3:
+      - Apresentação: apresentacoes/missao3/apresentacao3.md
+      - Lições Aprendidas: apresentacoes/missao3/licoes_aprendidas3.md
   - Entregas:
     - Entregas Missão 1: 
       - História da Facção: entregas/entrega1/historia_faccao.md
