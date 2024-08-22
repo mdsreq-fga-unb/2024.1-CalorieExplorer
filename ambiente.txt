@@ -12,5 +12,5 @@ Frameworks: Node.js com Express.
 
 (para o frontend, iremos utilizar HTML, CSS e JS puro, afim de agilkicar o projeto)
 
-
+Sequelize
 

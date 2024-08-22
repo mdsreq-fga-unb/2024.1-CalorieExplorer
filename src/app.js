@@ -1,14 +1,14 @@
 import express from 'express'
 import mysql from 'mysql2'
 
-//conectando ao banco de dados
+// //conectando ao banco de dados
 
-const connection = mysql.createPool({
-    host: "localhost",
-    user: "root",
-    password: '1234',
-    database: 'calorie_counter_db'
-})
+// const connection = mysql.createPool({
+//     host: "localhost",
+//     user: "root",
+//     password: '1234',
+//     database: 'calorie_counter_db'
+// })
 
 
 const app = express()
