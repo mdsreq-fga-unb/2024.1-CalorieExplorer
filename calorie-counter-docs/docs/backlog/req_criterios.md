@@ -10,7 +10,7 @@
 
 Os requisitos funcionais são, de certa forma, as funcionalidades mínimas e máximas de um software, e isso depende de diversos fatores, como a abordagem utilizada para descrever os requisitos, o usuário de software, dentre outros. A tabela a seguir refere-se aos requisitos funcionais do proeto Calorie Explorer.
 
-| ID   | Requisito Funcional                                                                                                                           |
+| ID   | RequisitoF uncional                                                                                                                           |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | RF01 | O sistema deve permitir que o gerente visualize a quantidade de calorias dos alimentos por 100g e ajuste as dietas dos clientes.              |
 | RF02 | O sistema deve permitir que o cliente visualize os alimentos incluídos em sua dieta e substitua-os por outras opções, se desejado.            |
