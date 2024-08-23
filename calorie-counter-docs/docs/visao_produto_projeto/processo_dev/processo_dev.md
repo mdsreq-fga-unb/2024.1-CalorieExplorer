@@ -69,6 +69,6 @@ Etapa do projeto que visa a entrega final do software para o cliente, podendo at
 
 | Versão | Data       | Descrição                                      | Autor(es) |
 | ------ | ---------- | ---------------------------------------------- | ------------------------------------------------------ |
-| 1.0    | 17/04/2024 | Criação do Documento                           | [Filipe Carvalho](https://github.com/filipe-002) |
+| 1.0    | 17/04/2024 | Criação do Documento                           | Filipe Carvalho, Igor justino
 
 
