@@ -95,12 +95,12 @@ Então <resultado esperado>: Resultado esperado ou comportamento observado após
 ### 6. Princípios INVEST
 O acrônimo INVEST ajuda a garantir que as histórias de usuário sejam bem definidas e eficazes:
 
-    Independent (Independente): A história deve ser independente de outras.
-    Negotiable (Negociável): A história deve ser aberta a discussões e revisões.
-    Valuable (Valioso): A história deve trazer valor ao usuário ou ao negócio.
-    Estimable (Estimável): A história deve ser possível de ser estimada em termos de esforço.
-    Small (Pequeno): A história deve ser pequena o suficiente para ser concluída em um curto período.
-    Testable (Testável): Deve ser possível testar a história para garantir que os critérios de aceite foram atendidos.
+Independent (Independente): A história deve ser independente de outras.
+Negotiable (Negociável): A história deve ser aberta a discussões e revisões.
+Valuable (Valioso): A história deve trazer valor ao usuário ou ao negócio.
+Estimable (Estimável): A história deve ser possível de ser estimada em termos de esforço.
+Small (Pequeno): A história deve ser pequena o suficiente para ser concluída em um curto período.
+Testable (Testável): Deve ser possível testar a história para garantir que os critérios de aceite foram atendidos.
 
 #### Uma vez tendo as US's e seus critérios de aceitação, fizemos os BDD's.
 
