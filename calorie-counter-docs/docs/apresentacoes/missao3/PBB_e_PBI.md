@@ -13,3 +13,9 @@ Essa atividade ajuda a identificar as funcionalidades que são mais importantes 
 # Atividade do do Product Backlog Item(PBI)
 
   Aqui temos  o diagrama que organiza os Itens do Backlog do Produto (Product Backlog Items - PBIs) para dois papéis diferentes em um sistema: Nutricionista e Paciente. Cada papel tem uma lista de atividades ou funcionalidades que precisam ser desenvolvidas, detalhadas como PBIs.
+
+## Histórico de versão
+
+ Data       | Versão | Descrição                        | Autor          |
+| ---------- | ------ | -------------------------------- | -------------- |
+| 19/08/2024 | 1.0    | Inclusão do PBB e PBI | André João C Gomes, Igor de Sousa |
