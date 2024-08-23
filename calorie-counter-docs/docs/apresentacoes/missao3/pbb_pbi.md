@@ -2,7 +2,7 @@
 
 O PBB é um método de gestão de projetos, com foco no produto, mostrando uma espécie de mapeamento das funcionalidades de cada persona, atreladas aos seus respectivos problemas. Apresentaremos o PBB para o desenvolvimento do software "Calorie Counter".
 
-                            Figura 1: Pesornas
+                            Figura 1: Pesornas.
 
 ![Ilustração personas](image.png)
 
