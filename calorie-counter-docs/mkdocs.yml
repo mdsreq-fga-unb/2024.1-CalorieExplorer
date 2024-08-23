@@ -13,13 +13,15 @@ nav:
     - Definições: backlog/definicoes.md
     - Backlog do Produto: backlog/req_criterios.md
     - MPV: backlog/mpv.md
-  - Apresentações:
+  - Entregas:
+    - Missão:
+      - Apresentação: Missão/missao1/apresentacao1.md
+      - Lições Aprendidas: Missão/missao1/licoes_aprendidas.md
     - Missão 1:
-      - Apresentação: apresentacoes/missao1/apresentacao1.md
-      - Lições Aprendidas: apresentacoes/missao1/licoes_aprendidas.md
+      - Apresentação:
     - Missão 3:
-      - PBB e PBI: apresentacoes/missao3/pbb_pbi.md
-      - Lições Aprendidas: apresentacoes/missao3/licoes_aprendidas3.md
+      - PBB e PBI: Missão/missao3/pbb_pbi.md
+      - Lições Aprendidas: Missão/missao3/licoes_aprendidas3.md
   - Entregas:
     - Entregas Missão 1: 
       - História da Facção: entregas/entrega1/historia_faccao.md
