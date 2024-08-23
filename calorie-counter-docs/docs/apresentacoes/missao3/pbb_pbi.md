@@ -2,7 +2,7 @@
 
 O PBB é um método de gestão de projetos, com foco no produto, mostrando uma espécie de mapeamento das funcionalidades de cada persona, atreladas aos seus respectivos problemas. Apresentaremos o PBB para o desenvolvimento do software "Calorie Counter".
 
-                            Figura 1:
+                            Figura 1: Pesornas
 
 ![Ilustração personas](image.png)
 
@@ -14,17 +14,24 @@ Essas personas ajudam a definir as prioridades para o desenvolvimento do sistema
 
 Essa atividade ilustrada por dois diagramas ajuda a identificar as funcionalidades que são mais importantes para o desenvolvimento do produto, baseando-se nas necessidades e expectativas tanto dos usuários (pacientes) quanto dos stakeholders (nutricionistas). O resultado final será um backlog priorizado que guiará o desenvolvimento do produto.
 
-                          Figura 2:
-![pbb nutri](image-1.png)
+                          Figura 2: Nutricionista
+![pbb_1](image-3.png)
 
-                          Figura 3:
-![alt text](image-2.png)
+                          Figura 3: Paciente
+![alt text](image-4.png)
 # Atividade do do Product Backlog Item(PBI)
 
   Aqui temos  o diagrama que organiza os Itens do Backlog do Produto (Product Backlog Items - PBIs) para dois papéis diferentes em um sistema: Nutricionista e Paciente. Cada papel tem uma lista de atividades ou funcionalidades que precisam ser desenvolvidas, detalhadas como PBIs.
+
+                        Figura 4: PBI 1
+  ![PBI 1](image-5.png)
+
+                        Figura 5: PBI 2
+  ![PBI 2](image-6.png)
 
 ## Histórico de versão
 
  Data       | Versão | Descrição                        | Autor          |
 | ---------- | ------ | -------------------------------- | -------------- |
-| 19/08/2024 | 1.0    | Inclusão do PBB e PBI | André João C Gomes, Igor de Sousa |
+| 19/08/2024 | 1.0    | Inclusão do PBB e PBI | André João C Gomes, Igor Justino |
+| 22/08/2024 | 2.0    | adiçaõ de diagramas | Igor Justino |
