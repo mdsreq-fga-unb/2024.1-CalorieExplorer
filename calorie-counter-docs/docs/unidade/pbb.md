@@ -16,15 +16,15 @@ Aqui temos todas as personas que foram identificadas, cada um delas será mais d
 Aqui temos o que a persona faz, o que ela espera fazer, as suas funcionalides de acordo com os itens anteriores e os seus PBI's, devidamente priorizados (a forma de priorização será apresentada mais à frente).
 
 ### Recepcionista
-![alt text](image-2.png)
+![alt text](image-1.png)
 ### Médico Clínico Geral
-![alt text](image-3.png)
+![alt text](image-2.png)
 ### Farmacêutica
-![alt text](image-4.png)
+![alt text](image-3.png)
 ### O Coordenador de Agendamento
-![alt text](image-5.png)
+![alt text](image-4.png)
 ### Paciente
-![alt text](image-6.png)
+![alt text](image-5.png)
 
 ## Critérios de Priorização
 Aqui temos quais foram os critérios utilizados para realizar a priorização dos PBI's, juntamente com seus respectivos scores.
