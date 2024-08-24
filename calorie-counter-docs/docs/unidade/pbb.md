@@ -128,7 +128,6 @@ Testable (Testável): Deve ser possível testar a história para garantir que os
 | **US15** | Sra. Clara (Paciente) | Visualizar consulta agendada | 1. Sra. Clara deve poder visualizar suas consultas agendadas.<br>2. O sistema deve permitir visualizar detalhes como data, hora e local. | **Consulta Agendada**<br>**Cenário:** Visualização de consulta agendada.<br>**Dado que** Sra. Clara acessa seu perfil de paciente,<br>**Quando** ela clica na área de consultas agendadas,<br>**Então** o sistema exibe todos os detalhes de suas próximas consultas. |
 
 
-
 ## Histórico de versão
 
  Data       | Versão | Descrição                        | Autor          |
