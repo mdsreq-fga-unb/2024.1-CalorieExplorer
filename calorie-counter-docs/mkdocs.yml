@@ -19,9 +19,12 @@ nav:
       - Lições Aprendidas: apresentacoes/missao1/licoes_aprendidas.md
     - Missão 2: 
       - Backlog: apresentacoes/missao2/backlog.md
-    - Missão 3:
+    - Unidade 3:
       - PBB e PBI: apresentacoes/missao3/pbb_pbi.md
       - Lições Aprendidas: apresentacoes/missao3/licoes_aprendidas3.md
+  - Missão 3:
+    - Atividade do Product Backlog Building (PBB): unidade/pbb.md
+    - Atividade do User Stories Mapping (USM): unidade/usm.md
   - Entregas:
     - Entregas Missão 1: 
       - História da Facção: entregas/entrega1/historia_faccao.md

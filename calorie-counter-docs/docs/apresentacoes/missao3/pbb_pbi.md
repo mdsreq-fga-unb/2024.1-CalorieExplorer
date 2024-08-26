@@ -34,4 +34,4 @@ Essa atividade ilustrada por dois diagramas ajuda a identificar as funcionalidad
  Data       | Versão | Descrição                        | Autor          |
 | ---------- | ------ | -------------------------------- | -------------- |
 | 19/08/2024 | 1.0    | Inclusão do PBB e PBI | André João C Gomes, Igor Justino |
-| 22/08/2024 | 2.0    | adiçaõ de diagramas | Igor Justino |
+| 22/08/2024 | 1.1    | adiçaõ de diagramas | Igor Justino |
