@@ -1,0 +1,50 @@
+body {
+
+  font-family: 'Times New Roman', Times, serif;
+
+  background-image: linear-gradient(45deg, #4dc74d, #61f5c8);
+
+}
+
+div {
+
+  background-color: rgb(5, 5, 5, 0.7);
+
+  position: absolute;
+
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -60%);
+  padding: 80px;
+  border-radius: 15px;
+  color: white;
+
+  a {
+
+    text-decoration: none;
+    font-style: italic;
+
+    font-size: 28px;
+
+    color: #ffffff;
+
+  }
+
+}
+
+input {
+
+
+  padding: 15px;
+  border: none;
+  outline: none;
+
+}
+
+button {
+  border: none;
+  padding: 10px;
+  width: 100%;
+  border-radius: 10px;
+  cursor: pointer;
+}

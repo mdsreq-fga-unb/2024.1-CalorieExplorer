@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CalorieExplorer</title>
+    <link rel="stylesheet" href="planejamento.css">
+</head>
+<body>
+    <div class="container">
+        <div class="section">
+            <h2>Rotina do paciente</h2>
+            <div class="routine-item">
+                <input type="text" placeholder="00:00 - Clique para editar o nome">
+                <button>escolher alimentos</button>
+                <button>observações</button>
+                <button>personalizar cardápio</button>
+                <button>X</button>
+            </div>
+            <div class="routine-item">
+                <input type="text" placeholder="00:00 - Clique para editar o nome">
+                <button>escolher alimentos</button>
+                <button>observações</button>
+                <button>personalizar cardápio</button>
+                <button>🗑️</button>
+            </div>
+            <div class="routine-item">
+                <input type="text" placeholder="00:00 - Clique para editar o nome">
+                <button>escolher alimentos</button>
+                <button>observações</button>
+                <button>personalizar cardápio</button>
+                <button>🗑️</button>
+            </div>
+            <button class="btn add-habit-btn">adicionar hábito</button>
+        </div>
+
+        <div class="section macronutrient-analysis">
+            <h2>Análise de macronutrientes</h2>
+            <table>
+                <tr>
+                    <th>Parâmetro</th>
+                    <th>Prescrito</th>
+                    <th>Teórico</th>
+                    <th>Diferença</th>
+                </tr>
+                <tr>
+                    <td>Proteínas totais</td>
+                    <td>0g</td>
+                    <td>0.0g</td>
+                    <td>0.0g</td>
+                </tr>
+                <tr>
+                    <td>Lipídios totais</td>
+                    <td>0g</td>
+                    <td>0.0g</td>
+                    <td>0.0g</td>
+                </tr>
+                <tr>
+                    <td>Carboidratos totais</td>
+                    <td>0g</td>
+                    <td>0.0g</td>
+                    <td>0.0g</td>
+                </tr>
+                <tr>
+                    <td>Fibras totais</td>
+                    <td>0g</td>
+                    <td>-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td>Carboidratos livres</td>
+                    <td>0.0g</td>
+                    <td>0.0g</td>
+                    <td>0.0g</td>
+                </tr>
+                <tr>
+                    <td>Calorias totais</td>
+                    <td>0 Kcal</td>
+                    <td>0 Kcal</td>
+                    <td>0 Kcal</td>
+                </tr>
+                <tr>
+                    <td>Kcal não proteica / gN</td>
+                    <td>0 Kcal</td>
+                    <td>0 Kcal</td>
+                    <td>0 Kcal</td>
+                </tr>
+            </table>
+            <button class="btn btn-add">+ adicionar planejamento teórico</button>
+        </div>
+
+        <div class="section nutrient-chart">
+            <img src="grafico.png" alt="Gráfico de nutrientes">
+            <ul class="nutrient-details">
+                <li>Proteínas: 0 Kcal - 0.0%</li>
+                <li>Lipídios: 0 Kcal - 0.0%</li>
+                <li>Carboidratos: 0.0 Kcal - 100.0%</li>
+                <li>Total de Kcal: 0 Kcal</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

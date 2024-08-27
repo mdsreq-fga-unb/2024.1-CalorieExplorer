@@ -1,0 +1,324 @@
+body {
+
+  font-family: Arial, Helvetica, sans-serif;
+
+  font-size: 16px;
+
+  text-align: center;
+
+  background: #d9f4f7;
+
+  padding: 0px 25px 25px 25px;
+
+  margin: auto;
+
+  width: 90%;
+
+
+}
+
+.pohatd {
+
+  background-color: #d4fce9;
+
+  padding-top: 10px;
+
+}
+
+/* rodapé superior*/
+.login_cadastro {
+
+  position: fixed;
+
+  top: 0;
+
+  left: 0;
+
+  width: 97%;
+
+  padding: 20px 20px 10px 20px;
+
+  background-color: rgb(59, 140, 131, 0.6);
+
+  border-radius: 0px 0px 15px 15px;
+
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+
+  z-index: 100;
+
+}
+
+.navbar a {
+
+  position: relative;
+
+  font-size: 18px;
+
+  color: #ffffff;
+  ;
+
+  font-weight: 500;
+
+  text-decoration: none;
+
+  margin-left: 40px;
+
+}
+
+.icone {
+
+  width: 6%;
+
+  height: 6%;
+
+  padding: 0;
+
+  margin: 0;
+}
+
+/*se quiser deixar um fundin qnd passar o mouse em cima 
+a:hover {
+
+  background-color: #ddcabb;
+
+}*/
+
+/*titulo*/
+
+h1 {
+  color: #0e4c86;
+
+  font-size: 45px;
+
+  text-decoration: underline;
+
+  padding-top: 50px;
+
+}
+
+h2 {
+
+  font-size: 35px;
+
+  text-decoration: underline;
+
+}
+
+.textos {
+
+  font-size: 24px;
+
+  text-align: center;
+
+  padding-left: 100px;
+
+  padding-right: 100px;
+
+}
+
+/*P eu me lembrar dps
+.paragrafos{
+
+    text-indent: 24px;
+
+    color: #204b83;
+
+     faz todo o resto entrar apenas no tamanho da box, no caso o width
+    box-sizing: border-box;
+
+faz o item q vc esta marcando virar um bloco, e o resto do texto fica alinhado
+    display: block;
+
+}
+.paragrafo2 {
+
+    text-indent: 20px;
+
+    color: #26566d;
+
+    background-color: #ffffff;
+
+    border: 2px outset #e60000;
+
+    outline: 2px solid #56f075;
+
+  }
+.paragrafo3 {
+
+    text-indent: 20px;
+
+    color: #a142ff;
+
+    background-color: #ffffff;
+
+    border: 2px outset #7676fe;
+
+  }
+.paragrafo4 {
+
+    text-indent: 20px;
+
+    color: #fe6cc9;
+
+    background-color: #ffffff;
+
+    border: 2px solid #6bb8ff;
+
+  }
+.paragrafo5 {
+
+    text-indent: 20px;
+
+    color: #c02121;
+
+    background-color: #ffffff;
+
+  }*/
+
+/*rodapé inferior*/
+li {
+  list-style-type: none;
+
+  font-style: italic;
+
+  text-indent: 24px;
+
+  color: #204b83;
+}
+
+
+ol li {
+
+  list-style-type: upper-roman;
+
+  color: #6d20ac;
+
+  font-style: italic;
+
+  text-align: left;
+
+}
+
+/*tabela*/
+.image1 {
+
+  padding-top: 30px;
+
+}
+
+.image2 {
+
+  padding-top: 30px;
+
+}
+
+.image3 {
+
+  width: 50%;
+
+  padding-top: 30px;
+
+}
+
+.image4 {
+
+  width: 50%;
+
+  padding-top: 30px;
+
+}
+
+.image5 {
+
+  width: 50%;
+
+  padding-top: 30px;
+
+}
+
+.tabelas {
+
+  width: 100%;
+
+  overflow-x: auto;
+
+}
+
+table {
+
+  border-collapse: collapse;
+
+  font-family: 'Times New Roman', Times, serif;
+
+  width: 50%;
+
+  margin-left: 25%;
+
+  margin-bottom: 20px;
+
+  position: relative;
+
+}
+
+.tab1 {
+
+  margin-left: 25%;
+
+}
+
+.tab2 {
+
+  margin-left: 5%;
+
+}
+
+.tab3 {
+
+  margin-left: 10%;
+
+}
+
+table caption {
+
+  caption-side: top;
+
+  font-size: 35px;
+
+}
+
+table td,
+table th {
+
+  border: 1px solid #000000;
+
+  font-size: 25px;
+
+  padding: 6px;
+
+  text-align: left;
+
+}
+
+table td {
+
+  background-color: #fff;
+
+}
+
+table th {
+
+  background-color: #438e6e;
+
+  color: white;
+
+}
+
+.qnt {
+
+  text-align: center;
+
+}

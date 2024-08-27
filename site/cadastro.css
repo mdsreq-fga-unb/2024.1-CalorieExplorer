@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;500;600&display=swap');
+
+* 
+{
+
+  top: 50%;
+  left: 50%;
+  box-sizing : border-box;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.container
+{
+  background-color: rgb(5, 5, 5, 0.7);
+  border-radius: 15px;
+  color: white;
+  padding: 25px;
+  
+}
+
+body
+{
+  
+  width : 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(90deg, #4dc74d, #61f5c8);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.form-header
+{
+
+  margin-bottom: 0.8rem;
+  display : flex;
+  justify-content: space-between;
+
+}
+
+.login-button
+{
+
+  display : flex;
+  align-items: center;
+
+}
+
+.login-button button
+{
+
+  border : none;
+  background-color: white;
+  padding: 0.4rem 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+
+
+}
+
+.login-button botton a
+{
+
+  text-decoration : none;
+  font-weight : 500;
+
+
+}
+
+.input-group
+{
+
+  flex-wrap : wrap;
+  justify-content: space-between;
+  padding: 0.9rem 0.9;
+
+}
+
+.input-box
+{
+
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0%;
+
+
+}
+
+.input-box input
+{
+
+  margin : 0.3rem 0;
+  padding: 0.4rem 1rem;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 1px 1px 4px black;
+
+}
+
+a {
+
+  text-decoration: none;
+  font-style: italic;
+  font-size: 18px;
+  color: black;
+
+}
+
+h3
+{
+  
+  font-size: 18px;
+  text-decoration: none;
+
+}

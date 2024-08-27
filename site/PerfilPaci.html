@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paciente</title>
+    <link rel="stylesheet" href="PerfilPaci.css">
+</head>
+<body>
+
+    <header class="login_cadastro">
+    
+        <img src="Floresta.png" class="icone">
+    
+        <nav class="navbar">
+    
+          <a href="pagina_principal.html">Home</a>
+          <a href="login.html">Login</a>
+          <a href="cadastro.html">Cadastro</a>
+    
+        </nav>
+    
+      </header>
+
+    <div class="container">
+        <div class="sidebar">
+            <h2>Paciente 2, 22 anos.</h2>
+            <ul>
+                <li class="active">Perfil do paciente</li>
+                <li>Planejamento alimentar</li>
+                <li>Orientações nutricionais</li>
+                <li>Prescrição de metas</li>
+                <li>Acompanhamento de saúde</li>
+            </ul>
+        </div>
+        <div class="main-content">
+            <div class="dados-basicos">
+                <img src="perfil1.jpeg" alt="Avatar">
+                <div class="info">
+                    <div>
+                        <label for="nome-completo">Nome completo</label>
+                        <input type="text" id="nome-completo" value="2">
+                    </div>
+                    <div>
+                        <label for="data-nascimento">Data de nascimento</label>
+                        <input type="text" id="data-nascimento" value="22/05/2009">
+                    </div>
+                    <div>
+                        <label for="telefone">Telefone com DDD</label>
+                        <input type="text" id="telefone" value="(61) 9111111">
+                    </div>
+                </div>
+            </div>
+            <div class="atalhos-consulta">
+                <button class="novo">registrar consulta</button>
+                <button class="novo">agendar paciente</button>
+                <button>adicionar anamnese</button>
+                <button>adicionar antropometria</button>
+                <button onclick="window.location.href='planejamento.html'">adicionar planejamento</button>
+                <button>adicionar orientação</button>
+                <button>adicionar manipulados</button>
+            </div>
+            <div class="diario-alimentar">
+                <h3>Diário alimentar</h3>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+  
