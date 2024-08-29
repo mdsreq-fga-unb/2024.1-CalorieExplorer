@@ -13,17 +13,17 @@ nav:
     - Definições: backlog/definicoes.md
     - Backlog do Produto: backlog/req_criterios.md
     - MPV: backlog/mpv.md
-  - Missões:
+  - Apresentações:
     - Missão 1:
-      - Apresentação: missoes/missao1/apresentacao1.md
-      - Lições Aprendidas: missoes/missao1/licoes_aprendidas.md
+      - Apresentação: apresentacoes/missao1/apresentacao1.md
+      - Lições Aprendidas: apresentacoes/missao1/licoes_aprendidas.md
     - Missão 2: 
-      - Definições: missoes/missao2/dod.md
-      - Backlog: missoes/missao2/backlog.md
-      - MVP: missoes/missao2/mvp1.md
+      - Definições: apresentacoes/missao2/dod.md
+      - Backlog: apresentacoes/missao2/backlog.md
+      - MVP: apresentacoes/missao2/mvp1.md
     - Missão 3:
-      - PBB e PBI: missoes/missao3/pbb_pbi.md
-      - Lições Aprendidas: missoes/missao3/licoes_aprendidas3.md
+      - PBB e PBI: apresentacoes/missao3/pbb_pbi.md
+      - Lições Aprendidas: apresentacoes/missao3/licoes_aprendidas3.md
   - Atividade(Missão 3):
     - Atividade do Product Backlog Building (PBB): unidade/pbb.md
     - Atividade do User Stories Mapping (USM): unidade/usm.md

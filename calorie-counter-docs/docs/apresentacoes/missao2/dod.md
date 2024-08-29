@@ -22,4 +22,4 @@ A **Definition of Ready (DoR)** define os critérios que uma história de usuár
 
 | Data       | Versão | Descrição                              | Autor               |
 | ---------- | ------ | -------------------------------------- | ------------------- |
-| 19/08/2024 | 1.0    | Adicionando as definições de DOD e DOR | Ana Catarina Santos. |
+| 19/08/2024 | 1.0    | Adicionando as definições de DOD e DOR | Ana Catarina Santos |
