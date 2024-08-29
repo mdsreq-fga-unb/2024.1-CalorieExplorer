@@ -1,5 +1,6 @@
 package com.unb.fga.calorieexplorer.service;
 
+import com.unb.fga.calorieexplorer.dto.LoginDTO;
 import com.unb.fga.calorieexplorer.model.UsuarioEntity;
 import com.unb.fga.calorieexplorer.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -31,6 +32,15 @@ public class UsuarioService {
             throw new RuntimeException("usuario nao encontrado");
         }
         usuarioRepository.deleteById(id);
+    }
+
+    public boolean efetuarLogin(LoginDTO login) {
+        Optional<UsuarioEntity> usuario = usuarioRepository.findByEmail(login.email());
+        if (usuario.isEmpty()) {
+            throw new RuntimeException("usuario nao encontrado");
+        }
+        UsuarioEntity usuarioEntity = usuario.get();
+        return usuarioEntity.getSenha().equals(login.senha());
     }
 }
 
