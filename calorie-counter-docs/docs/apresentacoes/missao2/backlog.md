@@ -67,7 +67,7 @@
 | TH05           | EP15            | Implementação de Integração Contínua                             |
 | TH05           | EP16            | Automação de Testes e Deploy                                     |
 | TH06          | EP17            | Identificação e Resolução de Débitos Técnicos                    |
-| TH06           | EP18           | Refatoração do Código para Melhorias de Desempenho               |
+| TH06           | EP18           | Refatoração do Código para Melhorias de Desempenho.              |
 
 **Histórias de Usuário**
 
