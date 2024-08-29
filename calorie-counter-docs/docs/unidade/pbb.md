@@ -6,7 +6,7 @@
 Aqui temos quais são os problemas atuais que a clínica está enfrentando, e quais são as expectativas, o que querem alcançar com o produto de software
 
 ![Poblemas](image.png)
-![alt text](image-1.png)
+![alt text](image10.png)
 
 ### personas
 Aqui temos todas as personas que foram identificadas, cada um delas será mais detalhada a seguir.
