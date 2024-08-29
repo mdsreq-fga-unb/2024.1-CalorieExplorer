@@ -13,10 +13,10 @@ nav:
     - Definições: backlog/definicoes.md
     - Backlog do Produto: backlog/req_criterios.md
     - MPV: backlog/mpv.md
-  - Apresentações:
+  - Missões:
     - Missão 1:
-      - Apresentação: apresentacoes/missao1/apresentacao1.md
-      - Lições Aprendidas: apresentacoes/missao1/licoes_aprendidas.md
+      - Apresentação: missoes/missao1/apresentacao1.md
+      - Lições Aprendidas: missoes/missao1/licoes_aprendidas.md
     - Missão 2: 
       - Definições: apresentacoes/missao2/dod.md
       - Backlog: apresentacoes/missao2/backlog.md
