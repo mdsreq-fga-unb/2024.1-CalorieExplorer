@@ -6,7 +6,7 @@ body {
 
   text-align: center;
 
-  background: #d9f4f7;
+  background: #fde7d8;
 
   padding: 0px 25px 25px 25px;
 
@@ -14,14 +14,15 @@ body {
 
   width: 90%;
 
-
 }
 
 .pohatd {
 
-  background-color: #d4fce9;
+  background-color: #ffffff;
 
   padding-top: 10px;
+
+  border-radius: 15px;
 
 }
 
@@ -38,7 +39,7 @@ body {
 
   padding: 20px 20px 10px 20px;
 
-  background-color: rgb(59, 140, 131, 0.6);
+  background-color: rgba(26, 83, 62, 0.7);
 
   border-radius: 0px 0px 15px 15px;
 
@@ -71,13 +72,25 @@ body {
 
 .icone {
 
-  width: 6%;
+  width: 5%;
 
-  height: 6%;
+  height: 5%;
 
   padding: 0;
 
   margin: 0;
+
+}
+
+.ladoimg{
+
+  font-size: 20px;
+
+  color: #ffffff;
+
+  margin: 0 550px 0 0;
+
+
 }
 
 /*se quiser deixar um fundin qnd passar o mouse em cima 
@@ -96,7 +109,7 @@ h1 {
 
   text-decoration: underline;
 
-  padding-top: 50px;
+  padding-top: 65px;
 
 }
 
@@ -107,6 +120,7 @@ h2 {
   text-decoration: underline;
 
 }
+
 
 .textos {
 
@@ -120,88 +134,55 @@ h2 {
 
 }
 
-/*P eu me lembrar dps
-.paragrafos{
-
-    text-indent: 24px;
-
-    color: #204b83;
-
-     faz todo o resto entrar apenas no tamanho da box, no caso o width
-    box-sizing: border-box;
-
-faz o item q vc esta marcando virar um bloco, e o resto do texto fica alinhado
-    display: block;
-
-}
-.paragrafo2 {
-
-    text-indent: 20px;
-
-    color: #26566d;
-
-    background-color: #ffffff;
-
-    border: 2px outset #e60000;
-
-    outline: 2px solid #56f075;
-
-  }
-.paragrafo3 {
-
-    text-indent: 20px;
-
-    color: #a142ff;
-
-    background-color: #ffffff;
-
-    border: 2px outset #7676fe;
-
-  }
-.paragrafo4 {
-
-    text-indent: 20px;
-
-    color: #fe6cc9;
-
-    background-color: #ffffff;
-
-    border: 2px solid #6bb8ff;
-
-  }
-.paragrafo5 {
-
-    text-indent: 20px;
-
-    color: #c02121;
-
-    background-color: #ffffff;
-
-  }*/
-
 /*rodapé inferior*/
-li {
-  list-style-type: none;
+.hotbarinf{
 
-  font-style: italic;
+  position: bottom;
 
-  text-indent: 24px;
+  width: 100%;
 
-  color: #204b83;
+  margin: 10px 100px -25px -66px;
+
+  padding: 20px 100px 15px 30px;
+
+  background-color: rgba(26, 83, 62, 1);
+
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+
+  z-index: 100;
+ 
+}
+
+.ladoimg2{
+
+  font-size: 25px;
+
+  color: #ffffff;
+
+  margin-right: 890px;
+
+
+}
+
+.navbar h3 {
+
+  position: relative;
+
+  color: #ffffff;
+
+  font-weight: 500;
+
+  text-decoration: none;
+
+  margin-left: 40px;
+
 }
 
 
-ol li {
-
-  list-style-type: upper-roman;
-
-  color: #6d20ac;
-
-  font-style: italic;
-
-  text-align: left;
-
-}
 
 /*tabela*/
 .image1 {
