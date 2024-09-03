@@ -43,13 +43,23 @@ Objetivos Específicos:
 - Criar uma seção dedicada ao cronograma de dieta, permitindo aos pacientes monitorar e editar suas refeições diárias com facilidade.
 - Incluir um histórico de consultas na mesma página do cronograma, permitindo que os pacientes acompanhem suas consultas passadas e futuras, melhorando o engajamento e o cumprimento das recomendações nutricionais.
 
+## Matriz de comunicação
+
+| Descrição                                                                                          | Papéis Envolvidos         | Periodicidade         | Produtos Gerados                      |
+|----------------------------------------------------------------------------------------------------|---------------------------|-----------------------|---------------------------------------|
+| Definição dos próximos objetivos, Sprint Backlog e acompanhamento do progresso do produto          | Time de Desenvolvimento   | Quinzenal             | Relatório de situação de projeto      |
+| Acompanhamento dos riscos, compromissos e ações pendentes                                          | Time de Desenvolvimento   | Quinzenal             | Relatório de riscos e pendências      |
+| Comunicação assíncrona entre membros via WhatsApp e Discord                                        | Time de Desenvolvimento   | Conforme necessidade  | N/A                                   |
+| Reunião com cliente para validação via WhatsApp e entrega de protótipo via e-mail e via WhatsApp   | Dono do Produto e Cliente | Quinzenal             | Relatório de Feedbacks                |
+
 # Tecnologias Utilizadas
 
-| Tecnologia     | Propósito                                                                                                     |
-| -------------- | ------------------------------------------------------------------------------------------------------------- |
-| Front-end      | Foi escolhido a biblioteca React.Js, que é utilizado para construção de interfaces de usuário em páginas web. |
-| Back-End       | Node.js é um ambiente de execução do código JavaScript com o objetivo de criar servidores.                    |
-| Banco de Dados | Foi escolhido o MySql é um sistema gerenciador de banco de dados orientado a documentos.                      |
+| Tecnologia     | Propósito                                                                                               |
+| -------------- | ------------------------------------------------------------------------------------------------------- |
+| Front-end      | Foi escolhido HTML e CSS para a construção de interfaces de usuário em páginas web.                     |
+| Back-End       | Java é utilizado como linguagem de programação para a criação de servidores.                            |
+| Banco de Dados | Foi escolhido o MySQL, um sistema gerenciador de banco de dados orientado a documentos.                 |
+
 
 # Ferramentas utilizadas
 
@@ -62,8 +72,14 @@ Objetivos Específicos:
 | VsCode      | Para desenvolver o projeto;                            |
 | Replit      | Para desenvolver o projeto;                            |
 
+<iframe width="560" height="315" src="https://trello.com/invite/accept-board" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Histórico de Versão
 
-| Data       | Versão | Descrição                                  | Autor              |
-| ---------- | ------ | ------------------------------------------ | ------------------ |
-| 17/04/2024 | 1.0    | Criação do documento e adição dos detalhes | André Joao C Gomes |
+| Data       | Versão | Descrição                               | Autor               |
+| ---------- | ------ | --------------------------------------- | ------------------- |
+| 31/07/2024 | 1.0    | Criação do Backlog e ajustes do MK-Docs | André João C Gomes  |
+| 13/08/2024 | 1.1    | Ajustes do Backlog                      | André João C Gomes  |
+| 19/08/2024 | 1.2    | Reestruturação do projeto               | Ana Catarina Santos |
+| 26/08/2024 | 1.3    | correção e revisão | Igor Justino
+| 31/08/2024 | 1.4    | correção e revisão | Igor Justino, André João C Gomes
