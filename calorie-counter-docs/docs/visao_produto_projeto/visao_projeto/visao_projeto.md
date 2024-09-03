@@ -1,14 +1,19 @@
 # Visão geral do projeto
 
+## Observação Geral
+Por conta da greve geral de professores que houve durante o decorrer do semestre, houveram diversos adiamentos de sprints e o trancamento de diversos membros da equipe. Portanto, fica aqui documentado as mudanças que ocorreram
+não só no escopo geral do projeto, mas em diversos prazos e planejamentos.
+
+
 ## Organização do projeto
 
-| Papel                  | Atribuições                                                                                                                                                                                                                      | Responsável         | Participantes                  |
-| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------ |
-| Desenvolvedor          | Desenvolver o produto, codificar testes unitários, realizar refatoração de código e manter as boas práticas                                                                                                                      | Ana Catarina Santos | Todos os integrantes da equipe |
-| Dono do Produto        | Atualizar o escopo do produto, organizar o escopo das sprints, validar as entregas                                                                                                                                               | Eduarda Tavares     | Eduarda Tavares                |
-| Analista de Qualidade  | Garantir a qualidade do produto, garantir o cumprimento do conceito de pronto, realizar inspeções de código                                                                                                                      | Igor Justino        | Todos os integrantes da equipe |
-| Analista de Requisitos | Realizar a elicitação de requisitos, trabalhar no consenso e definição dos mesmos, realizar formas de declaração e representação, trabalhar na verificação e validação e manter o fluxo de informações organizados e atualizados | Filipe Carvalho     | Todos os integrantes da equipe |
-| Cliente                | Fornecer feedbacks para a equipe de desenvolvimento sobre o que está sendo desenvolvido, elicitar requisitos do produto                                                                                                          | Mônica Rossyna      | Mônica Rossyna                 |
+| Papel                  | Atribuições                                                                                                                                                                                                                      | Responsável     | Participantes                  |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |-----------------|--------------------------------|
+| Desenvolvedor          | Desenvolver o produto, codificar testes unitários, realizar refatoração de código e manter as boas práticas                                                                                                                      | Filipe Carvalho | Todos os integrantes da equipe |
+| Dono do Produto        | Atualizar o escopo do produto, organizar o escopo das sprints, validar as entregas                                                                                                                                               | André João      | Todos os integrantes da equipe |
+| Analista de Qualidade  | Garantir a qualidade do produto, garantir o cumprimento do conceito de pronto, realizar inspeções de código                                                                                                                      | Igor Justino    | Todos os integrantes da equipe |
+| Analista de Requisitos | Realizar a elicitação de requisitos, trabalhar no consenso e definição dos mesmos, realizar formas de declaração e representação, trabalhar na verificação e validação e manter o fluxo de informações organizados e atualizados | Filipe Carvalho | Todos os integrantes da equipe |
+| Cliente                | Fornecer feedbacks para a equipe de desenvolvimento sobre o que está sendo desenvolvido, elicitar requisitos do produto                                                                                                          | -- | -- |
 
 ## Planejamento das fases
 
@@ -22,6 +27,7 @@
 | Sprint 6 | Desenvolvimento, diagrama de caso de uso, atualizações necessarias.                                                                              | 14/06/2024   | 27/06/2024 |
 | Sprint 7 | Finalisação do desenvolvolvimento, atualizações necessarias e entrega da missão 4.                                                               | 28/06/2024   | 11/07/2024 |
 
+
 ## Matriz de comunicação
 
 | Descrição                                       | Área / Envolvidos  | Periodicidade                                           | Produtos Gerados                      |
@@ -34,12 +40,12 @@
 ## Gerenciamento de riscos
 
 | Risco                           | Causa                                                                                                                             | Probabilidade | Estratégia de mitigação                                              |
-| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------------------------------------------- |
-| Redução da equipe               | Trancamento da disciplina ou qualquer questão pessoal que impeça, de forma permanente ou temporária, a realização das atividades. | Média         | Redistribuição do trabalho entre os integrantes restantes.           |
-| Falha na comunicação interna.   | Falhas de comunicação entre os integrantes que podem causar intercorrências e mal-entendidos                                      | Baixa         | Repensar as formas de comunicação entre os integrantes.              |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |---------------| -------------------------------------------------------------------- |
+| Redução da equipe               | Trancamento da disciplina ou qualquer questão pessoal que impeça, de forma permanente ou temporária, a realização das atividades. | Alta          | Redistribuição do trabalho entre os integrantes restantes.           |
+| Falha na comunicação interna.   | Falhas de comunicação entre os integrantes que podem causar intercorrências e mal-entendidos                                      | Alta          | Repensar as formas de comunicação entre os integrantes.              |
 | Baixa produtividade da equipe   | Produtividade abaixo do esperado por baixa disponibilidade dos integrantes e por falta de conhecimento.                           | Alta          | Melhorar a gestão, reformular e redistribuir as tarefas pendentes.   |
-| Mudança no escopo               | Atraso no desenvolvimento das tarefas ou alterações no backlog a pedido do cliente.                                               | Média         | Replanejamento do escopo existente com a adição dos novos elementos. |
-| Indisponibilidade de integrante | Enfermidades Incapacitação dos desenvolvedores por questões de saúde.                                                             | Média         | Compensar por aumento na carga de trabalho dos membros restantes.    |
+| Mudança no escopo               | Atraso no desenvolvimento das tarefas ou alterações no backlog a pedido do cliente.                                               | Alta          | Replanejamento do escopo existente com a adição dos novos elementos. |
+| Indisponibilidade de integrante | Enfermidades Incapacitação dos desenvolvedores por questões de saúde.                                                             | Alta          | Compensar por aumento na carga de trabalho dos membros restantes.    |
 
 ## Critérios de replanejamento
 

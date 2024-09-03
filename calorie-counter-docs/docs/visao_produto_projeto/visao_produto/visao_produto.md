@@ -51,6 +51,8 @@ Objetivos Específicos:
 | Acompanhamento dos riscos, compromissos e ações pendentes                                          | Time de Desenvolvimento   | Quinzenal             | Relatório de riscos e pendências      |
 | Comunicação assíncrona entre membros via WhatsApp e Discord                                        | Time de Desenvolvimento   | Conforme necessidade  | N/A                                   |
 | Reunião com cliente para validação via WhatsApp e entrega de protótipo via e-mail e via WhatsApp   | Dono do Produto e Cliente | Quinzenal             | Relatório de Feedbacks                |
+|   | Dono do Produto e Cliente | Quinzenal             | Relatório de Feedbacks                |
+
 
 # Tecnologias Utilizadas
 
