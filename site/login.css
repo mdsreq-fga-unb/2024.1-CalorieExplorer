@@ -2,17 +2,81 @@ body {
 
   font-family: 'Times New Roman', Times, serif;
 
-  background-image: linear-gradient(45deg, #4dc74d, #61f5c8);
+  background: #fde7d8;
 
 }
 
+.login_cadastro {
+
+  position: fixed;
+
+  top: 0;
+
+  left: 0;
+
+  width: 97%;
+
+  padding: 10px 20px 10px 20px;
+
+  background-color: rgba(26, 83, 62, 0.7);
+
+  border-radius: 0px 0px 15px 15px;
+
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+
+  z-index: 100;
+
+}
+
+.navbar a {
+
+  position: relative;
+
+  font-size: 18px;
+
+  color: #ffffff;
+
+  font-weight: 500;
+
+  text-decoration: none;
+
+  margin-left: 30px;
+
+}
+
+.icone {
+
+  width: 5%;
+
+  height: 5%;
+
+  padding: 0;
+
+  margin: 0;
+
+}
+
+.ladoimg{
+
+  font-size: 20px;
+
+  color: #ffffff;
+
+  margin: 0 800px 0 0;
+
+
+}
 div {
 
   background-color: rgb(5, 5, 5, 0.7);
 
   position: absolute;
 
-  top: 50%;
+  top: 61%;
   left: 50%;
   transform: translate(-50%, -60%);
   padding: 80px;

@@ -15,9 +15,9 @@ body {
   
     width: 97%;
   
-    padding: 20px 20px 10px 20px;
+    padding: 10px 20px 10px 20px;
   
-    background-color: rgb(59, 140, 131, 0.6);
+    background-color: rgba(26, 83, 62, 0.7);
   
     border-radius: 0px 0px 15px 15px;
   
@@ -44,21 +44,33 @@ body {
   
     text-decoration: none;
   
-    margin-left: 40px;
+    margin-left: 30px;
   
   }
   
   .icone {
   
-    width: 6%;
+    width: 5%;
   
-    height: 6%;
+    height: 5%;
   
     padding: 0;
   
     margin: 0;
+  
   }
-
+  
+  .ladoimg{
+  
+    font-size: 20px;
+  
+    color: #ffffff;
+  
+    margin: 0 800px 0 0;
+  
+  
+  }
+  
 .container {
     margin-top: 80px;
     display: flex;

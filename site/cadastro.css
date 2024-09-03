@@ -1,12 +1,67 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;500;600&display=swap');
 
-* 
-{
 
-  top: 50%;
-  left: 50%;
-  box-sizing : border-box;
-  font-family: Arial, Helvetica, sans-serif;
+.login_cadastro {
+
+  position: fixed;
+
+  top: 0;
+
+  left: 0;
+
+  width: 97%;
+
+  padding: 10px 20px 10px 20px;
+
+  background-color: rgba(26, 83, 62, 0.7);
+
+  border-radius: 0px 0px 15px 15px;
+
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+
+  z-index: 100;
+
+}
+
+.navbar a {
+
+  position: relative;
+
+  font-size: 18px;
+
+  color: #ffffff;
+
+  font-weight: 500;
+
+  text-decoration: none;
+
+  margin-left: 30px;
+
+}
+
+.icone {
+
+  width: 5%;
+
+  height: 5%;
+
+  padding: 0;
+
+  margin: 0;
+
+}
+
+.ladoimg{
+
+  font-size: 20px;
+
+  color: #ffffff;
+
+  margin: 0 800px 0 0;
+
 
 }
 
@@ -22,12 +77,13 @@
 body
 {
   
-  width : 100%;
-  height: 100%;
+  top: 50%;
+  left: 50%;
+  padding-top: 80px;
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: linear-gradient(90deg, #4dc74d, #61f5c8);
+  background: #fde7d8;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
 
