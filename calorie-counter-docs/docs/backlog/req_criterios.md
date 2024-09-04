@@ -10,17 +10,16 @@
 
 Os requisitos funcionais são, de certa forma, as funcionalidades mínimas e máximas de um software, e isso depende de diversos fatores, como a abordagem utilizada para descrever os requisitos, o usuário de software, dentre outros. A tabela a seguir refere-se aos requisitos funcionais do proeto Calorie Explorer.
 
-| ID   | RequisitoF uncional                                                                                                                           |
-| ---- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| RF01 | O sistema deve permitir que o gerente visualize a quantidade de calorias dos alimentos por 100g e ajuste as dietas dos clientes.              |
-| RF02 | O sistema deve permitir que o cliente visualize os alimentos incluídos em sua dieta e substitua-os por outras opções, se desejado.            |
-| RF03 | O sistema deve permitir que o gerente agende e altere horários de consultas, com uma agenda para gerenciar esses compromissos.                |
-| RF04 | O sistema deve permitir que o cliente veja o horário de suas consultas, receba notificações sobre mudanças e seja lembrado antes da consulta. |
-| RF05 | O sistema deve garantir que o estilo do site esteja alinhado com a identidade visual do local de trabalho do gerente.                         |
-| RF06 | O sistema deve incluir pelo menos 5 alimentos em cada categoria (Proteína, carboidrato, lipídio, etc.).                                       |
-| RF07 | O sistema deve ser intuitivo e fácil de usar, com uma interface limpa e de fácil entendimento.                                                |
-| RF08 | O sistema deve exigir CPF, nome completo, idade, gênero, email, peso e altura para o cadastro.                                                |
-| RF09 | O sistema deve ter uma página de login separada para o gerente, distinta do login dos pacientes.                                              |
+| ID   | Requisitos Funcional                                                                                                                                       |
+|------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| RF01 | O sistema deve permitir que o gerente visualize a quantidade de calorias dos alimentos por 100g e ajuste as dietas dos clientes.                           |
+| RF02 | O sistema deve permitir que o cliente visualize os alimentos incluídos em sua dieta e substitua-os por outras opções, se desejado.                         |
+| RF03 | O sistema deve permitir que o gerente agende e altere horários de consultas, com uma agenda para gerenciar esses compromissos.                             |
+| RF04 | O sistema deve permitir que o cliente veja o horário de suas consultas, receba notificações sobre mudanças e seja lembrado antes da consulta.              |
+| RF05 | O sistema deve seguir um padrão de estilo que seja conduzente com os padrões de mercado, seguindo uma estética minimalista e agradável de utilizar.        |
+| RF06 | O sistema deve possuir uma interface com cada função sendo descrita de forma clara, de forma que não polua o visual e com padrões já utilizados no mercado. |
+| RF07 | O sistema deve exigir CPF, nome completo, idade, gênero, email, peso e altura para o cadastro.                                                             |
+| RF08 | O sistema deve ter uma página de login separada para o gerente, distinta do login dos pacientes.                                                           |
 
 ## Requisitos Não Funcionais
 
