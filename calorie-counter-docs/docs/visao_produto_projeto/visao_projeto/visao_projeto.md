@@ -19,23 +19,23 @@ não só no escopo geral do projeto, mas em diversos prazos e planejamentos.
 
 | Sprints  | Atividades Realizadas                                                                                                                            | Data Inicial | Data Final |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | ---------- |
-| Sprint 1 | Criação da facção, definição do produto, definição do projeto, criação do GitPages. Entrega da Missão 1.                                         | 09/04/2024   | 18/04/2024 |
-| Sprint 2 | Definição do MVP, definição das regras de negócio.                                                                                               | 19/04/2024   | 02/05/2024 |
-| Sprint 3 | Desenvolvimento do Backlog, atualizações necessarias e entrega da missão 2.                                                                      | 03/05/2024   | 16/05/2024 |
-| Sprint 4 | Definição e aplicação do Definition of Ready(DoR), Definition of Done(DoD) e Product Backlog Building(PBB) e atualizações necessarias.           | 17/05/2024   | 30/05/2024 |
-| Sprint 5 | Criação do Behavior Driven Development(BDD), User Story Mapping(USM), início do desenvolvimento, atualizações necessarias e entrega da missão 3. | 31/05/2024   | 13/06/2024 |
-| Sprint 6 | Desenvolvimento, diagrama de caso de uso, atualizações necessarias.                                                                              | 14/06/2024   | 27/06/2024 |
-| Sprint 7 | Finalisação do desenvolvolvimento, atualizações necessarias e entrega da missão 4.                                                               | 28/06/2024   | 11/07/2024 |
+| Sprint 1 | Criação da facção, definição do produto, definição do projeto, criação do GitPages. Entrega da Missão 1.                                         | 17/04/2024   | 24/04/2024 |
+| Sprint 2 | Definição do MVP, definição das regras de negócio.                                                                                               | 25/04/2024   | 02/05/2024 |
+| Sprint 3 | Desenvolvimento do Backlog, atualizações necessarias e entrega da missão 2.                                                                      | 27/07/2024   | 02/08/2024 |
+| Sprint 4 | Definição e aplicação do Definition of Ready(DoR), Definition of Done(DoD) e Product Backlog Building(PBB) e atualizações necessarias.           | 03/08/2024   | 12/08/2024 |
+| Sprint 5 | Criação do Behavior Driven Development(BDD), User Story Mapping(USM), início do desenvolvimento, atualizações necessarias e entrega da missão 3. | 13/08/2024   | 20/08/2024 |
+| Sprint 6 | Desenvolvimento, diagrama de caso de uso, atualizações necessarias.                                                                              | 21/08/2024   | 31/08/2024 |
+| Sprint 7 | Finalisação do desenvolvolvimento, atualizações necessarias e entrega da missão 4.                                                               | 01/09/2024   | 09/09/2024 |
 
 
 ## Matriz de comunicação
 
-| Descrição                                       | Área / Envolvidos  | Periodicidade                                           | Produtos Gerados                      |
+| Descrição| Área / Envolvidos  | Periodicidade  | Produtos Gerados|
 | ----------------------------------------------- | ------------------ | ------------------------------------------------------- | ------------------------------------- |
-| Acompanhamento de atividades em desenvolvimento | Equipe             | Diário                                                  | Quadro KanBan no GitHub Projects      |
-| Reuniões Gerais                                 | Equipe             | 2 vezes por semana                                      | Relatório da reunião                  |
-| Alinhamento com Cliente                         | Equipe / Cliente   | Semanal                                                 | Relatório de Considerações do Cliente |
-| Situação do Projeto                             | Equipe / Professor | Conversas periódicas com o professor, Ponto de Controle | Feedbacks do professor                |
+| Acompanhamento de atividades em desenvolvimento | Equipe| Diário| Quadro KanBan no GitHub Projects|
+| Reuniões Gerais| Equipe|Periodicamente, quando achamos necessário| Relatório da reunião|
+| Alinhamento com Cliente| Equipe / Cliente   | Devido a falta de cliente não tem comunicação com o mesmo mais| Relatório de Considerações do Cliente |
+| Situação do Projeto | Equipe / Professor | Conversas periódicas com o professor, Ponto de Controle | Feedbacks do professor |
 
 ## Gerenciamento de riscos
 
@@ -49,9 +49,9 @@ não só no escopo geral do projeto, mas em diversos prazos e planejamentos.
 
 ## Critérios de replanejamento
 
-- Redução de pelo menos 2 integrantes;
+- Redução de 4 integrantes;
 - Problemas técnicos que atrapalhem o andamento do desenvolvimento do produto;
-- Insatisfação do cliente;
+- Nós 3 que ficamos(André, Igor, Felipe), não temos mais comunicação ao cliente;
 - Cancelamento do calendário por conta da Greve;
 
 ## Histórico de versão
@@ -60,3 +60,4 @@ não só no escopo geral do projeto, mas em diversos prazos e planejamentos.
 | ---------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- |
 | 17/04/2024 | 1.0    | Criação do documento                                                                                                                       | Ana Catarina Santos                                  |
 | 17/04/2024 | 1.1    | Preenchimento da organização do projeto, planejamneto das fases, matriz de comunicação, gerenciamento de riscos, critérios de planejamento | Ana Catarina Santos, Eduarda Tavares, Pedro Henrique |
+| 03/09/2024 | 1.2    | reorganização do projeto| André João, Felipe, Igor|
