@@ -13,13 +13,11 @@ Os requisitos funcionais são, de certa forma, as funcionalidades mínimas e má
 | ID   | Requisitos Funcional                                                                                                                                       |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | RF01 | O sistema deve permitir que o gerente visualize a quantidade de calorias dos alimentos por 100g e ajuste as dietas dos clientes.                           |
-| RF02 | O sistema deve permitir que o cliente visualize os alimentos incluídos em sua dieta e substitua-os por outras opções, se desejado.                         |
-| RF03 | O sistema deve permitir que o gerente agende e altere horários de consultas, com uma agenda para gerenciar esses compromissos.                             |
-| RF04 | O sistema deve permitir que o cliente veja o horário de suas consultas, receba notificações sobre mudanças e seja lembrado antes da consulta.              |
-| RF05 | O sistema deve seguir um padrão de estilo que seja conduzente com os padrões de mercado, seguindo uma estética minimalista e agradável de utilizar.        |
-| RF06 | O sistema deve possuir uma interface com cada função sendo descrita de forma clara, de forma que não polua o visual e com padrões já utilizados no mercado. |
-| RF07 | O sistema deve exigir CPF, nome completo, idade, gênero, email, peso e altura para o cadastro.                                                             |
-| RF08 | O sistema deve ter uma página de login separada para o gerente, distinta do login dos pacientes.                                                           |
+| RF02 | O sistema deve permitir que o cliente visualize os alimentos.                         |
+| RF03 | O sistema deve seguir um padrão de estilo que seja conduzente com os padrões de mercado, seguindo uma estética minimalista e agradável de utilizar.        |
+| RF04 | O sistema deve possuir uma interface com cada função sendo descrita de forma clara, de forma que não polua o visual e com padrões já utilizados no mercado. |
+| RF05 | O sistema deve exigir CPF, nome completo, idade, gênero, email, peso e altura para o cadastro.                                                             |
+| RF06 | O sistema deve ter uma página de login separada para o gerente, distinta do login dos pacientes.                                                           |
 
 ## Requisitos Não Funcionais
 
@@ -41,9 +39,8 @@ Temas
 | Código | Tema                    | Descrição                                                                 |
 | ------ | ----------------------- | ------------------------------------------------------------------------- |
 | TH01   | Gestão de Dietas        | Funcionalidades relacionadas ao gerenciamento de dietas e alimentos.      |
-| TH02   | Agendamento e Consultas | Funcionalidades relacionadas ao agendamento e gerenciamento de consultas. |
-| TH03   | Experiência do Usuário  | Funcionalidades focadas na experiência e interface do usuário.            |
-| TH04   | Gerenciamento do Site   | Funcionalidades relacionadas ao gerenciamento e configuração do site.     |
+| TH02   | Experiência do Usuário  | Funcionalidades focadas na experiência e interface do usuário.            |
+| TH03   | Gerenciamento do Site   | Funcionalidades relacionadas ao gerenciamento e configuração do site.     |
 
 Épicos
 
@@ -51,45 +48,44 @@ Temas
 | -------------- | --------------- | ------------------------------------------ |
 | TH01           | EP01            | Ajuste e Visualização de Alimentos         |
 | TH01           | EP02            | Criação e Gerenciamento de Planos de Dieta |
-| TH01           | EP03            | Recomendação de Substituições              |
-| TH01           | EP04            | Metas Nutricionais                         |
-| TH02           | EP05            | Marcação e Alteração de Consultas          |
-| TH02           | EP06            | Status e Notificações de Consultas         |
-| TH03           | EP07            | Estilo do Site e Personalização            |
-| TH03           | EP08            | Facilidade de Uso e Interface              |
-| TH03           | EP09            | Histórico de Dietas e Consultas            |
-| TH03           | EP10            | Recursos Educativos e FAQs                 |
-| TH04           | EP11            | Inclusão de Informações no Cadastro        |
-| TH04           | EP12            | Página de Login Diferenciada               |
-| TH04           | EP13            | Exportação de Relatórios                   |
-| TH04           | EP14            | Categorias de Alimentos                    |
-
-## Histórias de Usuário
+| TH01           | EP03            | Metas Nutricionais                         |
+| TH02           | EP04            | Estilo do Site e Personalização            |
+| TH03           | EP05            | Página de Login Diferenciada               |
+| TH04           | EP06            | Categorias de Alimentos                    |
 
 | Código do Tema | Código do Épico | ID    | História de Usuário                                                                                                 | Prioridade Média |
 |----------------|-----------------|-------|----------------------------------------------------------------------------------------------------------------------|------------------|
-| TH03           | EP08            | US07a | Eu, como cliente, quero que o menu de navegação tenha um botão claro para acessar minha dieta personalizada.         | 9.67             |
-| TH03           | EP08            | US07b | Eu, como cliente, quero que o menu de navegação tenha uma opção direta para acessar minhas consultas agendadas.      | 9.67             |
-| TH03           | EP08            | US07c | Eu, como cliente, quero que a página principal exiba apenas um resumo das informações essenciais da minha dieta.      | 9.67             |
-| TH03           | EP08            | US07d | Eu, como cliente, quero que as páginas internas tenham um layout que destaque as ações principais com botões grandes e visíveis. | 9.67 |
-| TH01           | EP02            | US11a | Eu, como gerente, quero criar um plano de dieta personalizado para cada cliente, com base em suas metas nutricionais. | 9.33             |
-| TH01           | EP02            | US11b | Eu, como gerente, quero adicionar alimentos específicos ao plano de dieta do cliente, de acordo com suas preferências. | 9.33             |
-| TH01           | EP02            | US11c | Eu, como gerente, quero visualizar uma lista de alimentos permitidos ao criar o plano de dieta do cliente.           | 9.33             |
-| TH04           | EP13            | US13a | Eu, como gerente, quero exportar relatórios de progresso dos clientes em formato PDF com gráficos de evolução.        | 9.33             |
-| TH04           | EP13            | US13b | Eu, como gerente, quero exportar históricos de dieta dos clientes em formato Excel, com filtros para selecionar datas. | 9.33             |
-| TH04           | EP13            | US13c | Eu, como gerente, quero escolher se o relatório incluirá apenas dados de calorias ou também informações nutricionais detalhadas. | 9.33 |
-| TH01           | EP04            | US15a | Eu, como gerente, quero definir metas de ingestão calórica diária para cada cliente.                                  | 9.00             |
-| TH01           | EP04            | US15b | Eu, como gerente, quero definir metas de ingestão de proteínas, carboidratos e gorduras para cada cliente.            | 9.00             |
-| TH01           | EP04            | US15c | Eu, como gerente, quero monitorar o progresso do cliente em relação às metas de ingestão de macronutrientes.          | 9.00             |
-| TH02           | EP05            | US03a | Eu, como gerente, quero marcar consultas para os clientes diretamente pelo calendário, escolhendo datas e horários disponíveis. | 8.67 |
-| TH02           | EP05            | US03b | Eu, como gerente, quero enviar notificações automáticas aos clientes ao marcar ou alterar uma consulta.              | 8.67             |
-| TH02           | EP05            | US03c | Eu, como gerente, quero visualizar todas as consultas agendadas em um calendário semanal no sistema.                 | 8.67             |
-
+| TH01           | EP01            | US01  | Eu, como gerente, quero criar planos de dieta personalizados para cada cliente com base em suas metas nutricionais.  | 9.33             |
+| TH01           | EP01            | US02  | Eu, como gerente, quero adicionar alimentos específicos ao plano de dieta do cliente, de acordo com suas preferências. | 9.33             |
+| TH01           | EP01            | US03  | Eu, como gerente, quero visualizar uma lista de alimentos permitidos ao criar o plano de dieta do cliente.           | 9.33             |
+| TH01           | EP02            | US04  | Eu, como gerente, quero definir metas de ingestão calórica e macronutrientes diárias para cada cliente.              | 9.00             |
+| TH01           | EP02            | US05  | Eu, como gerente, quero monitorar o progresso dos clientes em relação às suas metas nutricionais.                    | 9.00             |
+| TH01           | EP03            | US06  | Eu, como gerente, quero exportar relatórios de progresso e históricos de dieta dos clientes em formatos PDF e Excel. | 9.33             |
+| TH02           | EP04            | US07  | Eu, como cliente, quero que o menu de navegação tenha botões claros para acessar minha dieta e consultas agendadas.  | 9.67             |
+| TH02           | EP04            | US08  | Eu, como cliente, quero que a página principal exiba um resumo das informações essenciais da minha dieta.            | 9.67             |
+| TH02           | EP04            | US09  | Eu, como cliente, quero que as páginas internas tenham um layout com botões grandes e visíveis para as ações principais. | 9.67          |
+| TH03           | EP05            | US10  | Eu, como gerente, quero marcar consultas para os clientes, escolhendo datas e horários disponíveis no calendário.    | 8.67             |
+| TH03           | EP05            | US11  | Eu, como gerente, quero enviar notificações automáticas aos clientes ao marcar ou alterar uma consulta.              | 8.67             |
+| TH03           | EP05            | US12  | Eu, como gerente, quero visualizar todas as consultas agendadas em um calendário semanal no sistema.                 | 8.67             |
 
 
 
 *A priorização das Histórias de Usuário foi feita com base em três critérios: Viabilidade (V), Agregação ao Site (AS) e Opinião do Cliente (OC), cada um avaliado de 1 a 10. A prioridade média foi calculada pela média simples dessas notas.*
 
+### Alterações:
+
+Devido a limitações de tempo e à ausência de quatro membros da equipe, foi necessário ajustar o escopo do projeto para garantir a entrega dentro do prazo estabelecido. Diante dessa situação, optamos por retirar algumas funcionalidades relacionadas ao agendamento de horários, gerenciamento de consultas pelos clientes e outros temas específicos. As funcionalidades e temas afetados incluem:
+Agendar horários
+Visualização de horários de consulta
+Notificações sobre mudanças e lembretes
+Além disso, os seguintes temas foram retirados:
+
+    TH02 - Marcação e Alteração de Consultas
+    TH03 - Status e Notificações de Consultas
+    TH03 - Histórico de Dietas e Consultas
+    TH03 - Recursos Educativos e FAQs
+    TH04 - Inclusão de Informações no Cadastro e Exportação de Relatórios
+Essas decisões foram tomadas para concentrar os esforços da equipe nas funcionalidades essenciais e garantir a entrega de um produto viável, mesmo com os recursos limitados. O foco principal passou a ser a implementação das funcionalidades básicas que permitam o funcionamento mínimo da aplicação, com a possibilidade de futuras iterações para incorporar as funcionalidades removidas quando houver disponibilidade de tempo e recursos.
 ## Histórico de Versão
 
 | Data       | Versão | Descrição                               | Autor               |
@@ -97,3 +93,6 @@ Temas
 | 31/07/2024 | 1.0    | Criação do Backlog e ajustes do MK-Docs | André João C Gomes  |
 | 13/08/2024 | 1.1    | Ajustes do Backlog                      | André João C Gomes  |
 | 19/08/2024 | 1.2    | Reestruturação do projeto               | Ana Catarina Santos |
+| 04/09/2024 | 1.3    | Reestruturação do projeto          | Igor S. Justino |
+
+

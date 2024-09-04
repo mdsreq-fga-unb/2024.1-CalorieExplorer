@@ -4,10 +4,8 @@ Neste ponto, abordamos a implementação do conceito de Mínimo Produto Viável 
 
 | ID   | Nome da História de Usuário                     | Critérios de Aceitação                                                                                                                                                                                                        |
 | ---- | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US01 | Visualização e Ajuste de Kcal                   | 1. Visualizar quantidade de Kcal por 100g.<br>2. Ajustar Kcal e refletir na dieta.<br>3. Confirmação de ajustes.<br>4. Registro histórico.<br>5. Recomendações automáticas.                                                   |
-| US02 | Troca de Alimentos na Dieta                     | 1. Visualizar alimentos da dieta.<br>2. Opção de troca com critérios nutricionais.<br>3. Interface intuitiva.<br>4. Aviso sobre impacto na dieta.<br>5. Atualização instantânea.                                              |
-| US03 | Marcação e Alteração de Consultas               | 1. Selecionar horários disponíveis.<br>2. Alterar horário com notificação.<br>3. Marcação de consultas recorrentes.<br>4. Verificação de conflitos de agenda.<br>5. Confirmação de marcação/alteração.                        |
-| US04 | Notificações e Status de Consultas              | 1. Visualizar status da consulta.<br>2. Receber notificações automáticas.<br>3. Acessar histórico de consultas anteriores.<br>4. Notificação de lembrete antes da consulta.                                                   |
+| US01 | Visualização e Ajuste de Kcal                   | 1. Visualizar quantidade de Kcal por 100g.<br>2. Ajustar Kcal e refletir na dieta.<br>3. Confirmação de ajustes.<br>4. Recomendações automáticas.                                                   |
+| US02 | Troca de Alimentos na Dieta                     | 1. Visualizar alimentos da dieta.<br>2. Interface intuitiva.<br>3.  Atualização instantânea.                                              |                                             |
 | US05 | Personalização do Estilo do Site                | 1. Personalizar o estilo do site.<br>2. Compatibilidade com o tema corporativo.<br>3. Pré-visualização do design.<br>4. Aplicação imediata das mudanças.<br>5. Reversibilidade das alterações.                                |
 | US06 | Gerenciamento de Categorias de Alimentos        | 1. Verificação automática de categorias.<br>2. Inserção de alimentos com base em critérios pré-definidos.<br>3. Alerta para categorias abaixo do mínimo.<br>4. Relatório semanal de categorias.                               |
 | US07 | Site Intuitivo e de Fácil Entendimento          | 1. Avaliação de usabilidade.<br>2. Interface clara e simples.<br>3. Tempo de carregamento mínimo.<br>4. Feedback de usuários.<br>5. Testes de acessibilidade.                                                                 |
@@ -20,6 +18,10 @@ Neste ponto, abordamos a implementação do conceito de Mínimo Produto Viável 
 | US14 | Acesso a Recursos Educativos e FAQs             | 1. Acesso à seção de FAQ.<br>2. Atualização frequente dos conteúdos educativos.<br>3. Interface de fácil navegação.<br>4. Busca por palavras-chave.<br>5. Feedback sobre a utilidade dos recursos.                            |
 | US15 | Definição e Monitoramento de Metas Nutricionais | 1. Definição de metas nutricionais.<br>2. Monitoramento contínuo.<br>3. Notificação de progresso para o cliente.<br>4. Ajustes automáticos conforme progresso.<br>5. Relatórios de progresso detalhados.                      |
 
+### Alterações
+Devido a limitações de tempo e à ausência de quatro membros da equipe, foi necessário ajustar o escopo do MVP para garantir a entrega dentro do prazo estabelecido. Diante dessa situação, optamos por retirar algumas funcionalidades essenciais relacionadas ao agendamento de horários, gerenciamento de consultas pelos clientes e outros aspectos específicos.
+
 | Data       | Versão | Descrição                        | Autor                                               |
 | ---------- | ------ | -------------------------------- | --------------------------------------------------- |
 | 19/08/2024 | 1.0    | Adicionando as definições do MVP | Ana Catarina Santos, Nicolas Bonfim, Pedro Henrique |
+| 05/08/2024 | 1.2    | Restruturação do escopo | Igor Justino |
