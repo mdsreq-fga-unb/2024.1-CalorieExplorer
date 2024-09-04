@@ -29,7 +29,7 @@ Requisitos não funcionais definem como um sistema deve operar, em vez de o que 
 | RNF   | Tipo            | Descrição                                                                                                          |
 | ----- | --------------- | ------------------------------------------------------------------------------------------------------------------ |
 | RNF01 | Interface       | A interface deve conter um modo de alto contraste, com tipografias diferenciadas, garantindo maior acessibilidade. |
-| RNF02 | Interface       | As páginas devem ser estilizadas com cores, ícones e fontes padronizadas.                                          |
+| RNF02 | Interface| As páginas devem estar padronizadas, levando o protótipo do figma como base.|
 | RNF03 | Usabilidade     | O site deve ser responsivo, podendo ser acessado em dispositivos com diferentes tamanhos de tela.                  |
 | RNF04 | Implementação   | O Back-End do site deve ser desenvolvido em JavaScript e MySQL.                                                    |
 | RNF05 | Suportabilidade | O site deve ser compatível com vários navegadores, como Opera, OperaGX, Microsoft Edge, Chrome, Firefox, etc.      |
