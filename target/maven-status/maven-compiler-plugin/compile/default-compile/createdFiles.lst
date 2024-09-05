@@ -1,0 +1,6 @@
+com\unb\fga\calorieexplorer\service\UsuarioService.class
+com\unb\fga\calorieexplorer\repository\UsuarioRepository.class
+com\unb\fga\calorieexplorer\model\UsuarioEntity.class
+com\unb\fga\calorieexplorer\CalorieExplorerApplication.class
+com\unb\fga\calorieexplorer\dto\LoginDTO.class
+com\unb\fga\calorieexplorer\controller\UsuarioController.class
