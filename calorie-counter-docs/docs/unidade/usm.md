@@ -14,7 +14,7 @@ O USM segue uma proposta diferente do PBB, indo para um foco mais no negócio em
 <iframe width="560" height="315" src="https://miro.com/welcomeonboard/UTRRNzdJcXZ5SXpiNkFKbVR6bkYxVzA5V2dXWHVPSjk5bDYxWEpQUGVPaDlLb21nbzduSWtTTkxYZWFQTm81RXwzNDU4NzY0NTgzMzI1MTU5ODM5fDI=?share_link_id=882229210164" title="Miro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<iframe width="560" height="315" src="https://trello.com/invite/accept-board" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://miro.com/welcomeonboard/UTRRNzdJcXZ5SXpiNkFKbVR6bkYxVzA5V2dXWHVPSjk5bDYxWEpQUGVPaDlLb21nbzduSWtTTkxYZWFQTm81RXwzNDU4NzY0NTgzMzI1MTU5ODM5fDI=?share_link_id=882229210164" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Histórico de versão
 
