@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+*,
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+body {
+  background: #F5F5DC; /* Fundo bege claro */
+  font-family: 'Roboto', sans-serif;
+  color: #333; /* Cor de texto suave */
+}
+
+.login_cadastro {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  background-color: #FFF;
+}
+
+.icone {
+  width: 50px;
+  height: 50px;
+}
+
+.navbar a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #007BFF;
+}
+
+.container {
+  width: 400px;
+  margin: 50px auto;
+  background: #FFF;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  font-size: 16px;
+  margin-bottom: 5px;
+  color: #333;
+}
+
+.form-group input,
+.form-group select {
+  width: 100%;
+  padding: 10px;
+  font-size: 14px;
+  border: 1px solid #CCC;
+  border-radius: 5px;
+  outline: none;
+  transition: border-color 0.3s ease;
+}
+
+.form-group input:focus,
+.form-group select:focus {
+  border-color: #007BFF;
+}
+
+.form-group button {
+  width: 100%;
+  padding: 10px;
+  background-color: #28A745;
+  border: none;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.form-group button:hover {
+  background-color: #218838;
+}
+
+.result-container {
+  margin-top: 20px;
+}
+
+.result-content {
+  background: #FAFAFA;
+  padding: 15px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.result-content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.result-content ul li {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+
+.result-content ul li strong {
+    color: #FF0000; /* Isso fará com que os números fiquem em vermelho */
+  }
