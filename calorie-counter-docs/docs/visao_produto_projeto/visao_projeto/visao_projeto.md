@@ -22,11 +22,11 @@ não só no escopo geral do projeto, mas em diversos prazos e planejamentos.
 |----------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------|
 | Sprint 1 | Criação da facção, definição do produto, definição do projeto, criação do GitPages. Entrega da Missão 1.                                         | 17/04/2024   | 24/04/2024 |
 | Sprint 2 | Definição do MVP, definição das regras de negócio.                                                                                               | 25/04/2024   | 02/05/2024 |
-| Sprint 3 | Desenvolvimento do Backlog, atualizações necessarias e entrega da missão 2.                                                                      | 27/07/2024   | 02/08/2024 |
-| Sprint 4 | Definição e aplicação do Definition of Ready(DoR), Definition of Done(DoD) e Product Backlog Building(PBB) e atualizações necessarias.           | 03/08/2024   | 12/08/2024 |
-| Sprint 5 | Criação do Behavior Driven Development(BDD), User Story Mapping(USM), início do desenvolvimento, atualizações necessarias e entrega da missão 3. | 13/08/2024   | 20/08/2024 |
-| Sprint 6 | Desenvolvimento, diagrama de caso de uso, atualizações necessarias.                                                                              | 21/08/2024   | 31/08/2024 |
-| Sprint 7 | Finalisação do desenvolvolvimento, atualizações necessarias e entrega da missão 4.                                                               | 01/09/2024   | 09/09/2024 |
+| Sprint 3 | Product Backlog inicial, configuração de ambiente, protótipo de alta fidelidade e estudo de tecnologias 2.                                                                      | 27/07/2024   | 02/08/2024 |
+| Sprint 4 | Implementação das US0, US0, US0, US0 e US0           | 03/08/2024   | 12/08/2024 |
+| Sprint 5 | Implementação das US0, US0, US0, US0 e US0. | 13/08/2024   | 20/08/2024 |
+| Sprint 6 | Implementação das US0, US0, US0, US0 e US0.                                                                              | 21/08/2024   | 31/08/2024 |
+| Sprint 7 | Implementação das US0, US0, US0, US0 e US0                                                              | 01/09/2024   | 09/09/2024 |
 
 ## Matriz de comunicação
 
