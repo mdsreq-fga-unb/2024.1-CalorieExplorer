@@ -32,7 +32,7 @@ não só no escopo geral do projeto, mas em diversos prazos e planejamentos.
 
 | Descrição                                       | Área / Envolvidos  | Periodicidade                                                  | Produtos Gerados                      |
 |-------------------------------------------------|--------------------|----------------------------------------------------------------|---------------------------------------|
-| Acompanhamento de atividades em desenvolvimento | Equipe             | Diário                                                         | Quadro KanBan no GitHub Projects      |
+| Acompanhamento de atividades em desenvolvimento | Equipe             | Diariamente                                                         | Inspecção do progresso em direção a meta da sprint e identificação de empecilhos      |
 | Reuniões Gerais                                 | Equipe             | Periodicamente, quando achamos necessário                      | Relatório da reunião                  |
 | Alinhamento com Cliente                         | Equipe / Cliente   | Devido a falta de cliente não tem comunicação com o mesmo mais | Relatório de Considerações do Cliente |
 | Situação do Projeto                             | Equipe / Professor | Conversas periódicas com o professor, Ponto de Controle        | Feedbacks do professor                |
@@ -43,7 +43,7 @@ _Devido aos critérios de replanejamento, que acabaram se concretizando e por mo
 
 | Descrição                                       | Área / Envolvidos  | Periodicidade                                                  | Produtos Gerados                      |
 |-------------------------------------------------|--------------------|----------------------------------------------------------------|---------------------------------------|
-| Acompanhamento de atividades em desenvolvimento | Equipe             | Diário                                                         | Quadro KanBan no Trello               |
+| Acompanhamento de atividades em desenvolvimento | Equipe             | Diário                                                         | Inspecção do progresso em direção a meta da sprint e identificação de empecilhos               |
 | Reuniões de alinhamento                         | Equipe             | Periodicamente, quando achamos necessário                      | Novos cards no Trello                 |
 | Situação do Projeto                             | Equipe / Professor | Conversas periódicas com o professor, Ponto de Controle        | Feedbacks do professor                |
 
