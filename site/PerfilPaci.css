@@ -1,17 +1,17 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #fde7d8;;
-    margin: 0;
+    margin: 0 40px 0 40px;
     padding: 0;
+    padding: 0 40px 0 100px;
 }
 
 .login_cadastro {
 
     position: fixed;
-  
+    
     top: 0;
-  
-    left: 0;
+    right: 0;
   
     width: 97%;
   
@@ -65,25 +65,34 @@ body {
   
     color: #ffffff;
   
-    margin: 0 800px 0 0;
+    margin: 0 870px 0 0;
   
   
   }
   
 .container {
-    width: 80%;
-    margin: 90px 0px 40px 120px;;
+    width: 90%;
+    margin-top: 100px ;
     display: flex;
+    position: relative;
     height: 100vh;
 }
 
 .sidebar {
     background-color: #fff;
-    width: 250px;
+    width: 350px;
+    height: 1400px;
+    border-bottom: 20px;
     padding: 20px;
     border-right: 1px solid #ccc;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
     border-radius: 15px 0px 0px 15px;
+}
+
+.sidebar a{
+
+    text-decoration: none;
+    color: #fff;
 }
 
 .sidebar h2 {
@@ -107,15 +116,16 @@ body {
 
 .sidebar ul li.active {
     color: #fff;
-    background-color: #00aaff;
+    background-color: #1da119;
 }
 
 .sidebar ul li:hover {
-    background-color: #f0f0f0;
+   text-decoration: underline;
 }
 
 .main-content {
     flex-grow: 1;
+    height: 1400px;
     padding: 20px;
     background-color: #fff;
     border-radius: 0px 15px 15px 0px;
@@ -253,10 +263,11 @@ body {
 }
 
 .diario-alimentar h3 {
-    font-size: 16px;
+    font-size: 25px;
     display: flex;
     position: relative;
-    bottom: 80px;
+    bottom: 100px;
+    right: 90px;
 }
 
 .form-group{
@@ -322,3 +333,115 @@ body {
     left: 300px;
     bottom: 110px;
   }
+
+
+  /*aqui po*/
+
+
+.section {
+    padding: 20px;
+    width: 210%;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.section h2 {
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.btn {
+    background-color: #5451bb;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.btn:hover {
+    background-color: #5451bb;
+}
+
+.routine-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.routine-item select,
+.routine-item input[type="text"] {
+    padding: 8px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    flex-grow: 1;
+}
+
+.routine-item button {
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    background-color: #5451bb;
+    color: white;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.routine-item button:last-child {
+    background-color: #f44336;
+}
+
+.routine-item button:hover {
+    background-color: #5451bb;
+}
+
+.routine-item button:last-child:hover {
+    background-color: #e53935;
+}
+
+.add-habit-btn {
+    margin-top: 10px;
+}
+
+.macronutrient-analysis {
+    margin-top: 20px;
+}
+
+.macronutrient-analysis table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 15px;
+}
+
+.macronutrient-analysis th,
+.macronutrient-analysis td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+}
+
+.macronutrient-analysis th {
+    background-color: #f9f9f9;
+}
+
+.nutrient-chart {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nutrient-chart img {
+    width: 150px;
+    height: 150px;
+}
+
+.nutrient-details {
+    list-style-type: none;
+    padding: 0;
+}
+
+.nutrient-details li {
+    margin-bottom: 5px;
+}
