@@ -14,7 +14,7 @@ Os requisitos funcionais são, de certa forma, as funcionalidades mínimas e má
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | RF01 | O sistema deve permitir que o gerente visualize a quantidade de calorias dos alimentos por 100g e ajuste as dietas dos clientes.                           |
 | RF02 | O sistema deve permitir que o cliente visualize os alimentos.                         |
-| RF03 | O sistema deve seguir um padrão de estilo que seja conduzente com os padrões de mercado, seguindo uma estética minimalista e agradável de utilizar.        |
+| RF03 | O sistema deve adotar um estilo minimalista e alinhado aos padrões de mercado, seguindo as heurísticas de Nielsen para garantir uma experiência de usuário intuitiva e eficiente.        |
 | RF04 | O sistema deve possuir uma interface com cada função sendo descrita de forma clara, de forma que não polua o visual e com padrões já utilizados no mercado. |
 | RF05 | O sistema deve exigir CPF, nome completo, idade, gênero, email, peso e altura para o cadastro.                                                             |
 | RF06 | O sistema deve ter uma página de login separada para o gerente, distinta do login dos pacientes.                                                           |
