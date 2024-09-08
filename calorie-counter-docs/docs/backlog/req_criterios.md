@@ -58,15 +58,15 @@ Temas
 
 ## User Roles
 
+## User Roles Resumido
+
 | Épico  | Tema                        | Feature                            | User Story                                                                                                                                                    | Prioridade |
 |--------|-----------------------------|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| **EP01** Gerenciamento de Acesso      | **TH03** Gerenciamento do Site     | **FEAT01** Cadastro e Login               | **US01** Como nutricionista, quero ser capaz de fazer login no sistema para gerenciar as dietas dos meus pacientes. <br> **US02** Como paciente, quero ser capaz de realizar meu cadastro e login para visualizar meu perfil e plano de dieta.  | 9.33         |
-| **EP02** Perfil do Paciente           | **TH01** Gestão de Dietas          | **FEAT02** Visualização de Dados          | **US03** Como nutricionista, quero visualizar uma lista de alimentos pré-definidos permitidos ao criar o plano de dieta do paciente. <br> **US04** Como nutricionista, quero visualizar os pacientes cadastrados. <br> **US05** Como nutricionista, quero visualizar o perfil do paciente para analisar suas informações pessoais e necessidades nutricionais. <br> **US06** Como paciente, quero ser capaz de visualizar meu perfil com as informações lançadas pela nutricionista.  | 9.33          |
-| **EP03** Planejamento Nutricional     | **TH01** Gestão de Dietas          | **FEAT03** Cálculo de Calorias e Planejamento de Dieta | **US06** Como nutricionista, quero definir metas de ingestão calórica e macronutrientes diárias para cada cliente. <br> **US07** Como nutricionista, quero calcular as calorias e macronutrientes diários necessários para cada paciente. <br> **US08** Como nutricionista, quero ser capaz de planejar a dieta do paciente, incluindo horários das refeições e metas nutricionais.  | 9.33          |
-| **EP04** Acompanhamento de Dieta      | **TH01** Gestão de Dietas          | **FEAT04** Metas e Progresso              | **US09** Como nutricionista, quero ser capaz de monitorar o progresso dos pacientes em relação às metas nutricionais para ajustar a dieta, se necessário. <br> **US10** Como paciente, quero visualizar meu progresso e metas nutricionais definidas pela nutricionista.  | 9.00          |
-| **EP06** Categorias de Alimentos      | **TH02** Experiência do Usuário    | **FEAT05** Visualização de Categorias     | **US11** Como paciente, quero visualizar diferentes categorias de alimentos para escolher quais incluir ou evitar na minha dieta. <br> **US12** Como nutricionista, quero ser capaz de organizar alimentos em categorias para facilitar a criação de planos alimentares. | 7.67         |
-
----
+| **EP01** Gerenciamento de Acesso      | **TH03** Gerenciamento do Site     | **FEAT01** Cadastro e Login               | **US01** Como nutricionista, quero fazer login no sistema para gerenciar as dietas dos meus pacientes. <br> **US02** Como paciente, quero realizar meu cadastro e login para acessar meu perfil e plano de dieta.  | 9.33         |
+| **EP02** Perfil do Paciente           | **TH01** Gestão de Dietas          | **FEAT02** Visualização de Dados          | **US03** Como nutricionista, quero visualizar uma lista de alimentos permitidos ao criar o plano de dieta do paciente. <br> **US04** Como nutricionista, quero visualizar os pacientes cadastrados. <br> **US05** Como nutricionista, quero visualizar o perfil do paciente para analisar suas informações nutricionais. <br> **US06** Como paciente, quero visualizar meu perfil com as informações lançadas pela nutricionista.  | 9.33          |
+| **EP03** Planejamento Nutricional     | **TH01** Gestão de Dietas          | **FEAT03** Cálculo de Calorias e Planejamento de Dieta | **US07** Como nutricionista, quero definir metas de ingestão calórica e macronutrientes para cada cliente. <br> **US08** Como nutricionista, quero calcular as necessidades calóricas e macronutrientes do paciente. <br> **US09** Como nutricionista, quero planejar a dieta do paciente, incluindo horários das refeições e metas nutricionais.  | 9.33          |
+| **EP04** Acompanhamento de Dieta      | **TH01** Gestão de Dietas          | **FEAT04** Metas e Progresso              | **US10** Como nutricionista, quero monitorar o progresso dos pacientes em relação às metas nutricionais. <br> **US11** Como paciente, quero visualizar meu progresso e metas nutricionais.  | 9.00          |
+| **EP06** Categorias de Alimentos      | **TH02** Experiência do Usuário    | **FEAT05** Visualização de Categorias     | **US12** Como paciente, quero visualizar diferentes categorias de alimentos para minha dieta. <br> **US13** Como nutricionista, quero organizar alimentos em categorias para facilitar a criação de planos alimentares. | 7.67         |
 
 
 
@@ -96,5 +96,5 @@ Essas decisões foram tomadas para concentrar os esforços da equipe nas funcion
 | 04/09/2024 | 1.3    | Reestruturação do Backlog          | Igor S. Justino |
 | 09/09/2024 | 1.4    | Reestruturação do Backlog          | Igor S. Justino |
 
----
+
 
