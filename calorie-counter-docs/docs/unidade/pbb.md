@@ -127,6 +127,16 @@ Testable (Testável): Deve ser possível testar a história para garantir que os
 | **US14** | Rafael (Coordenador de Agendamento) | Visualizar disponibilidade dos médicos | 1. Rafael deve poder visualizar a agenda dos médicos de forma clara.<br>2. O sistema deve exibir a disponibilidade em tempo real. | **Visualização de Disponibilidade**<br>**Cenário:** Visualização de disponibilidade médica.<br>**Dado que** Rafael acessa a agenda médica,<br>**Quando** ele revisa a disponibilidade de um médico específico,<br>**Então** o sistema exibe os horários disponíveis e ocupados em tempo real. |
 | **US15** | Sra. Clara (Paciente) | Visualizar consulta agendada | 1. Sra. Clara deve poder visualizar suas consultas agendadas.<br>2. O sistema deve permitir visualizar detalhes como data, hora e local. | **Consulta Agendada**<br>**Cenário:** Visualização de consulta agendada.<br>**Dado que** Sra. Clara acessa seu perfil de paciente,<br>**Quando** ela clica na área de consultas agendadas,<br>**Então** o sistema exibe todos os detalhes de suas próximas consultas. |
 
+## Canvas PBB
+**Link1**
+https://miro.com/welcomeonboard/SlJGRWljbWI0RXhjUGExVW5ZNER3MWRHNERFVmVzcERqVnl0em9JbGlRcHlQb0xIYkJRNHJlbFhtM3FvN0lpTnwzNDU4NzY0NTgzMzI1MTU5ODM5fDI=?share_link_id=977347595950
+
+**Link2**
+https://miro.com/app/board/uXjVKm2yn20=/
+
+
+<iframe width="560" height="315" src="https://miro.com/welcomeonboard/SlJGRWljbWI0RXhjUGExVW5ZNER3MWRHNERFVmVzcERqVnl0em9JbGlRcHlQb0xIYkJRNHJlbFhtM3FvN0lpTnwzNDU4NzY0NTgzMzI1MTU5ODM5fDI=?share_link_id=977347595950" title="Miro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Histórico de versão
 
