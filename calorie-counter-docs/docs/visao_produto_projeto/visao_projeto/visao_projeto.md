@@ -23,10 +23,10 @@ não só no escopo geral do projeto, mas em diversos prazos e planejamentos.
 | Sprint 1 | Criação da facção, definição do produto, definição do projeto, criação do GitPages. Entrega da Missão 1.                                         | 17/04/2024   | 24/04/2024 |
 | Sprint 2 | Definição do MVP, definição das regras de negócio.                                                                                               | 25/04/2024   | 02/05/2024 |
 | Sprint 3 | Product Backlog inicial, configuração de ambiente, protótipo de alta fidelidade e estudo de tecnologias 2.                                                                      | 27/07/2024   | 02/08/2024 |
-| Sprint 4 | Implementação das US0, US0, US0, US0 e US0           | 03/08/2024   | 12/08/2024 |
-| Sprint 5 | Implementação das US0, US0, US0, US0 e US0. | 13/08/2024   | 20/08/2024 |
-| Sprint 6 | Implementação das US0, US0, US0, US0 e US0.                                                                              | 21/08/2024   | 31/08/2024 |
-| Sprint 7 | Implementação das US0, US0, US0, US0 e US0                                                              | 01/09/2024   | 09/09/2024 |
+| Sprint 4 | Implementação das US01, US02 e US03.| 03/08/2024   | 12/08/2024 |
+| Sprint 5 | Implementação das US03, US04 e US05. | 13/08/2024   | 20/08/2024 |
+| Sprint 6 | Implementação das US04, US06, US07, US8.                                                                              | 21/08/2024   | 31/08/2024 |
+| Sprint 7 | Product Backlog Final, Implementação das US07, US09, US10, US11, US12 e US13.                                                              | 01/09/2024   | 09/09/2024 |
 
 ## Matriz de comunicação
 

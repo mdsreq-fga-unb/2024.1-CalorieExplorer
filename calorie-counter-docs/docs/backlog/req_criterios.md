@@ -10,17 +10,20 @@
 
 Os requisitos funcionais são, de certa forma, as funcionalidades mínimas e máximas de um software, e isso depende de diversos fatores, como a abordagem utilizada para descrever os requisitos, o usuário de software, dentre outros. A tabela a seguir refere-se aos requisitos funcionais do proeto Calorie Explorer.
 
-| ID   | Requisitos Funcional                                                                                                                                       |
-|------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| RF01 | O sistema deve permitir que o gerente visualize a quantidade de calorias dos alimentos por 100g e ajuste as dietas dos clientes.                           |
-| RF02 | O sistema deve permitir que o cliente visualize os alimentos.                         |
-| RF03 | O sistema deve adotar um estilo minimalista e alinhado aos padrões de mercado, seguindo as heurísticas de Nielsen para garantir uma experiência de usuário intuitiva e eficiente.        |
-| RF04 | O sistema deve possuir uma interface com cada função sendo descrita de forma clara, de forma que não polua o visual e com padrões já utilizados no mercado. |
-| RF05 | O sistema deve ter uma página de login separada para o gerente, distinta do login dos pacientes.                                                           |
-|RF07| O nutricionista deve poder visualizar a lista de pacientes cadastrados, selecionar um paciente e visualizar seu perfil com informações detalhadas. |
-| RF08 |O nutricionista deve poder adicionar uma dieta e um planejamento personalizado para cada paciente.|
-|RF09|O sistema deve possuir uma calculadora de calorias|
+### Requisitos Funcionais
 
+| **ID**   | **Requisitos Funcionais**                                                                                                                                              |
+|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **RF01** | O sistema deve permitir que o gerente visualize a quantidade de calorias dos alimentos por 100g e ajuste as dietas dos clientes.                                       |
+| **RF02** | O sistema deve permitir que o cliente visualize os alimentos disponíveis e suas respectivas informações nutricionais.                                                   |
+| **RF03** | O sistema deve adotar um estilo minimalista e seguir as heurísticas de Nielsen para garantir uma experiência de usuário intuitiva e eficiente.                          |
+| **RF04** | O sistema deve possuir uma interface com cada função descrita de forma clara, evitando poluição visual e utilizando padrões de design amplamente aceitos no mercado.    |
+| **RF05** | O sistema deve ter uma página de login separada para o gerente, distinta do login dos pacientes.                                                                        |
+| **RF06** | O sistema deve permitir que o nutricionista visualize a lista de pacientes cadastrados, selecione um paciente e visualize seu perfil com informações detalhadas.        |
+| **RF07** | O sistema deve permitir que o nutricionista adicione uma dieta e um plano de alimentação personalizados para cada paciente.                                             |
+| **RF08** | O sistema deve possuir uma calculadora de calorias integrada para auxiliar na criação e ajuste de dietas.                                                               |
+
+---
 ## Requisitos Não Funcionais
 
 Requisitos não funcionais definem como um sistema deve operar, em vez de o que ele deve fazer. Eles abrangem aspectos como desempenho, segurança, usabilidade e compatibilidade. Esses requisitos garantem que o sistema atenda aos padrões de qualidade e às expectativas dos usuários, assegurando uma experiência robusta e eficiente. Com isso, a tabela a seguir apresenta os requisitos não funcionais identificados para o desenvolvimento do projeto.
@@ -32,7 +35,7 @@ Requisitos não funcionais definem como um sistema deve operar, em vez de o que 
 | RNF03 | Usabilidade     | O site deve ser responsivo, podendo ser acessado em dispositivos com diferentes tamanhos de tela.                  |
 | RNF04 | Implementação   | O Back-End do site deve ser desenvolvido em JavaScript e MySQL.                                                    |
 | RNF05 | Suportabilidade | O site deve ser compatível com vários navegadores, como Opera, OperaGX, Microsoft Edge, Chrome, Firefox, etc.      |
-|RF06|Segurança|O sistema deve garantir que os dados dos nutricionistas sejam registrados diretamente no Back-End, evitando vulnerabilidades de segurança.|
+|RNF06|Segurança|O sistema deve garantir que os dados dos nutricionistas sejam registrados diretamente no Back-End, evitando vulnerabilidades de segurança.|
 | RNF07 | Confiabilidade  | O site deve possuir uma Política de Privacidade clara e um termo de aceitação de cookies para os usuários.         |
 
 ## Backlog do produto
@@ -54,11 +57,9 @@ Temas
 | TH01           | EP03            | Metas Nutricionais                         |
 | TH02           | EP04            | Estilo do Site e Personalização            |
 | TH03           | EP05            | Página de Login Diferenciada               |
-| TH04           | EP06            | Categorias de Alimentos                    |
+| TH01           | EP06            | Categorias de Alimentos                    |
 
 ## User Roles
-
-## User Roles Resumido
 
 | Épico  | Tema                        | Feature                            | User Story                                                                                                                                                    | Prioridade |
 |--------|-----------------------------|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
@@ -96,5 +97,9 @@ Essas decisões foram tomadas para concentrar os esforços da equipe nas funcion
 | 04/09/2024 | 1.3    | Reestruturação do Backlog          | Igor S. Justino |
 | 09/09/2024 | 1.4    | Reestruturação do Backlog          | Igor S. Justino |
 
+
+Aqui está a versão ajustada dos requisitos funcionais, seguindo as sugestões anteriores:
+
+---
 
 
