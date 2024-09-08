@@ -129,13 +129,13 @@ Testable (Testável): Deve ser possível testar a história para garantir que os
 
 ## Canvas PBB
 **Link1**
-https://miro.com/welcomeonboard/SlJGRWljbWI0RXhjUGExVW5ZNER3MWRHNERFVmVzcERqVnl0em9JbGlRcHlQb0xIYkJRNHJlbFhtM3FvN0lpTnwzNDU4NzY0NTgzMzI1MTU5ODM5fDI=?share_link_id=977347595950
+https://miro.com/app/board/uXjVKh_XWTQ=/
 
 **Link2**
-https://miro.com/app/board/uXjVKm2yn20=/
+https://miro.com/welcomeonboard/eDlONnJaVFhYYkpRMkd2RkNUNmZaY3A4RjZzNlA1Q2kxbm1WalBqdlB4VU1waVlEWldHbGlxcm1XMU5NUWNXZXwzNDU4NzY0NTgzMzI1MTU5ODM5fDI=?share_link_id=337025073247
 
 
-<iframe width="560" height="315" src="https://miro.com/welcomeonboard/SlJGRWljbWI0RXhjUGExVW5ZNER3MWRHNERFVmVzcERqVnl0em9JbGlRcHlQb0xIYkJRNHJlbFhtM3FvN0lpTnwzNDU4NzY0NTgzMzI1MTU5ODM5fDI=?share_link_id=977347595950" title="Miro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://miro.com/app/board/uXjVKh_XWTQ=/" title="Miro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Histórico de versão
