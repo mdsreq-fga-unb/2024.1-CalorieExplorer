@@ -44,7 +44,7 @@ _Devido aos critérios de replanejamento, que acabaram se concretizando e por mo
 | Descrição                                       | Área / Envolvidos  | Periodicidade                                                  | Produtos Gerados                      |
 |-------------------------------------------------|--------------------|----------------------------------------------------------------|---------------------------------------|
 | Acompanhamento de atividades em desenvolvimento | Equipe             | Diário                                                         | Inspecção do progresso em direção a meta da sprint e identificação de empecilhos               |
-| Reuniões de alinhamento                         | Equipe             | Periodicamente, quando achamos necessário                      | Novos cards no Trello                 |
+| Reuniões de alinhamento                         | Equipe             | Periodicamente, quando achamos necessário                      | realocar as pendências para uma próxima sprint.  |
 | Situação do Projeto                             | Equipe / Professor | Conversas periódicas com o professor, Ponto de Controle        | Feedbacks do professor                |
 
 ## Gerenciamento de riscos
@@ -61,7 +61,7 @@ _Devido aos critérios de replanejamento, que acabaram se concretizando e por mo
 
 - Redução de 4 integrantes;
 - Problemas técnicos que atrapalhem o andamento do desenvolvimento do produto;
-- Nós 3 que ficamos(André, Igor, Felipe), não temos mais comunicação ao cliente;
+- Nós 3 que ficamos(André, Igor, Felipe), não temos mais comunicação ao cliente incial, então é necessário encontrar um novo;
 - Cancelamento do calendário por conta da Greve;
 
 ## Histórico de versão
@@ -72,3 +72,4 @@ _Devido aos critérios de replanejamento, que acabaram se concretizando e por mo
 | 17/04/2024 | 1.1    | Preenchimento da organização do projeto, planejamneto das fases, matriz de comunicação, gerenciamento de riscos, critérios de planejamento | Ana Catarina Santos, Eduarda Tavares, Pedro Henrique |
 | 03/09/2024 | 1.2    | reorganização do projeto                                                                                                                   | André João, Filipe, Igor                             |
 | 04/09/2024 | 1.3    | Ajuste na matriz de comunicação                                                                                                            | Filipe Carvalho                                      |
+| 07/09/2024 | 1.4    | Reajuste no escopo                                                                                                           | Igor de Sousa 
