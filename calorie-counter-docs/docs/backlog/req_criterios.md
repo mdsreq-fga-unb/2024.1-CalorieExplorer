@@ -16,8 +16,10 @@ Os requisitos funcionais são, de certa forma, as funcionalidades mínimas e má
 | RF02 | O sistema deve permitir que o cliente visualize os alimentos.                         |
 | RF03 | O sistema deve adotar um estilo minimalista e alinhado aos padrões de mercado, seguindo as heurísticas de Nielsen para garantir uma experiência de usuário intuitiva e eficiente.        |
 | RF04 | O sistema deve possuir uma interface com cada função sendo descrita de forma clara, de forma que não polua o visual e com padrões já utilizados no mercado. |
-| RF05 | O sistema deve exigir CPF, nome completo, idade, gênero, email, peso e altura para o cadastro.                                                             |
-| RF06 | O sistema deve ter uma página de login separada para o gerente, distinta do login dos pacientes.                                                           |
+| RF05 | O sistema deve ter uma página de login separada para o gerente, distinta do login dos pacientes.                                                           |
+|RF07| O nutricionista deve poder visualizar a lista de pacientes cadastrados, selecionar um paciente e visualizar seu perfil com informações detalhadas. |
+| RF08 |O nutricionista deve poder adicionar uma dieta e um planejamento personalizado para cada paciente.|
+|RF09|O sistema deve possuir uma calculadora de calorias|
 
 ## Requisitos Não Funcionais
 
@@ -30,7 +32,8 @@ Requisitos não funcionais definem como um sistema deve operar, em vez de o que 
 | RNF03 | Usabilidade     | O site deve ser responsivo, podendo ser acessado em dispositivos com diferentes tamanhos de tela.                  |
 | RNF04 | Implementação   | O Back-End do site deve ser desenvolvido em JavaScript e MySQL.                                                    |
 | RNF05 | Suportabilidade | O site deve ser compatível com vários navegadores, como Opera, OperaGX, Microsoft Edge, Chrome, Firefox, etc.      |
-| RNF06 | Confiabilidade  | O site deve possuir uma Política de Privacidade clara e um termo de aceitação de cookies para os usuários.         |
+|RF06|Segurança|O sistema deve garantir que os dados dos nutricionistas sejam registrados diretamente no Back-End, evitando vulnerabilidades de segurança.|
+| RNF07 | Confiabilidade  | O site deve possuir uma Política de Privacidade clara e um termo de aceitação de cookies para os usuários.         |
 
 ## Backlog do produto
 
@@ -53,20 +56,17 @@ Temas
 | TH03           | EP05            | Página de Login Diferenciada               |
 | TH04           | EP06            | Categorias de Alimentos                    |
 
-| Código do Tema | Código do Épico | ID    | História de Usuário                                                                                                 | Prioridade Média |
-|----------------|-----------------|-------|----------------------------------------------------------------------------------------------------------------------|------------------|
-| TH01           | EP01            | US01  | Eu, como gerente, quero criar planos de dieta personalizados para cada cliente com base em suas metas nutricionais.  | 9.33             |
-| TH01           | EP01            | US02  | Eu, como gerente, quero adicionar alimentos específicos ao plano de dieta do cliente, de acordo com suas preferências. | 9.33             |
-| TH01           | EP01            | US03  | Eu, como gerente, quero visualizar uma lista de alimentos permitidos ao criar o plano de dieta do cliente.           | 9.33             |
-| TH01           | EP02            | US04  | Eu, como gerente, quero definir metas de ingestão calórica e macronutrientes diárias para cada cliente.              | 9.00             |
-| TH01           | EP02            | US05  | Eu, como gerente, quero monitorar o progresso dos clientes em relação às suas metas nutricionais.                    | 9.00             |
-| TH01           | EP03            | US06  | Eu, como gerente, quero exportar relatórios de progresso e históricos de dieta dos clientes em formatos PDF e Excel. | 9.33             |
-| TH02           | EP04            | US07  | Eu, como cliente, quero que o menu de navegação tenha botões claros para acessar minha dieta e consultas agendadas.  | 9.67             |
-| TH02           | EP04            | US08  | Eu, como cliente, quero que a página principal exiba um resumo das informações essenciais da minha dieta.            | 9.67             |
-| TH02           | EP04            | US09  | Eu, como cliente, quero que as páginas internas tenham um layout com botões grandes e visíveis para as ações principais. | 9.67          |
-| TH03           | EP05            | US10  | Eu, como gerente, quero marcar consultas para os clientes, escolhendo datas e horários disponíveis no calendário.    | 8.67             |
-| TH03           | EP05            | US11  | Eu, como gerente, quero enviar notificações automáticas aos clientes ao marcar ou alterar uma consulta.              | 8.67             |
-| TH03           | EP05            | US12  | Eu, como gerente, quero visualizar todas as consultas agendadas em um calendário semanal no sistema.                 | 8.67             |
+## User Roles
+
+| Épico  | Tema                        | Feature                            | User Story                                                                                                                                                    | Prioridade |
+|--------|-----------------------------|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| **EP01** Gerenciamento de Acesso      | **TH03** Gerenciamento do Site     | **FEAT01** Cadastro e Login               | **US01** Como nutricionista, quero ser capaz de fazer login no sistema para gerenciar as dietas dos meus pacientes. <br> **US02** Como paciente, quero ser capaz de realizar meu cadastro e login para visualizar meu perfil e plano de dieta.  | 9.33         |
+| **EP02** Perfil do Paciente           | **TH01** Gestão de Dietas          | **FEAT02** Visualização de Dados          | **US03** Como nutricionista, quero visualizar uma lista de alimentos pré-definidos permitidos ao criar o plano de dieta do paciente. <br> **US04** Como nutricionista, quero visualizar os pacientes cadastrados. <br> **US05** Como nutricionista, quero visualizar o perfil do paciente para analisar suas informações pessoais e necessidades nutricionais. <br> **US06** Como paciente, quero ser capaz de visualizar meu perfil com as informações lançadas pela nutricionista.  | 9.33          |
+| **EP03** Planejamento Nutricional     | **TH01** Gestão de Dietas          | **FEAT03** Cálculo de Calorias e Planejamento de Dieta | **US06** Como nutricionista, quero definir metas de ingestão calórica e macronutrientes diárias para cada cliente. <br> **US07** Como nutricionista, quero calcular as calorias e macronutrientes diários necessários para cada paciente. <br> **US08** Como nutricionista, quero ser capaz de planejar a dieta do paciente, incluindo horários das refeições e metas nutricionais.  | 9.33          |
+| **EP04** Acompanhamento de Dieta      | **TH01** Gestão de Dietas          | **FEAT04** Metas e Progresso              | **US09** Como nutricionista, quero ser capaz de monitorar o progresso dos pacientes em relação às metas nutricionais para ajustar a dieta, se necessário. <br> **US10** Como paciente, quero visualizar meu progresso e metas nutricionais definidas pela nutricionista.  | 9.00          |
+| **EP06** Categorias de Alimentos      | **TH02** Experiência do Usuário    | **FEAT05** Visualização de Categorias     | **US11** Como paciente, quero visualizar diferentes categorias de alimentos para escolher quais incluir ou evitar na minha dieta. <br> **US12** Como nutricionista, quero ser capaz de organizar alimentos em categorias para facilitar a criação de planos alimentares. | 7.67         |
+
+---
 
 
 
@@ -93,6 +93,8 @@ Essas decisões foram tomadas para concentrar os esforços da equipe nas funcion
 | 31/07/2024 | 1.0    | Criação do Backlog e ajustes do MK-Docs | André João C Gomes  |
 | 13/08/2024 | 1.1    | Ajustes do Backlog                      | André João C Gomes  |
 | 19/08/2024 | 1.2    | Reestruturação do projeto               | Ana Catarina Santos |
-| 04/09/2024 | 1.3    | Reestruturação do projeto          | Igor S. Justino |
+| 04/09/2024 | 1.3    | Reestruturação do Backlog          | Igor S. Justino |
+| 09/09/2024 | 1.4    | Reestruturação do Backlog          | Igor S. Justino |
 
+---
 
