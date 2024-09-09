@@ -1,0 +1,302 @@
+body {
+
+  font-family: Arial, Helvetica, sans-serif;
+
+  font-size: 16px;
+
+  text-align: center;
+
+  background: #fde7d8;
+
+  padding: 0px 25px 25px 25px;
+
+  margin: auto;
+
+  width: 90%;
+
+}
+
+.pohatd {
+
+  background-color: #ffffff;
+
+  padding-top: 10px;
+
+  border-radius: 15px;
+
+}
+
+/* rodapé superior*/
+.login_cadastro {
+
+  position: fixed;
+
+  top: 0;
+
+  left: 0;
+
+  width: 97%;
+
+  padding: 10px 20px 10px 20px;
+
+  background-color: rgba(26, 83, 62, 0.7);
+
+  border-radius: 0px 0px 15px 15px;
+
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+
+  z-index: 100;
+
+}
+
+.navbar a {
+
+  position: relative;
+
+  font-size: 18px;
+
+  color: #ffffff;
+  ;
+
+  font-weight: 500;
+
+  text-decoration: none;
+
+  margin-left: 40px;
+
+}
+
+.icone {
+
+  width: 5%;
+
+  height: 5%;
+
+  padding: 0;
+
+  margin: 0;
+
+}
+
+.ladoimg{
+
+  font-size: 20px;
+
+  color: #ffffff;
+
+  margin: 0 850px 0 0;
+
+
+}
+
+/*se quiser deixar um fundin qnd passar o mouse em cima 
+a:hover {
+
+  background-color: #ddcabb;
+
+}*/
+
+/*titulo*/
+
+h1 {
+  color: #0e4c86;
+
+  font-size: 45px;
+
+  text-decoration: underline;
+
+  padding-top: 65px;
+
+}
+
+h2 {
+
+  font-size: 35px;
+
+  text-decoration: underline;
+
+}
+
+
+.textos {
+
+  font-size: 24px;
+
+  text-align: center;
+
+  padding-left: 100px;
+
+  padding-right: 100px;
+
+}
+
+/*rodapé inferior*/
+.hotbarinf{
+
+  position: bottom;
+
+  width: 100%;
+
+  margin: 10px 100px -25px -66px;
+
+  padding: 20px 100px 15px 30px;
+
+  background-color: rgba(26, 83, 62, 1);
+
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+
+  z-index: 100;
+ 
+}
+
+.ladoimg2{
+
+  font-size: 25px;
+
+  color: #ffffff;
+
+  margin-right: 700px;
+  margin-left: 20px;
+
+
+}
+
+
+.textinaofim
+{
+
+  color: #ffffff;
+
+  font-size: 16px;
+
+}
+
+
+
+/*tabela*/
+.image1 {
+
+  padding-top: 30px;
+
+}
+
+.image2 {
+
+  padding-top: 30px;
+
+}
+
+.image3 {
+
+  width: 50%;
+
+  padding-top: 30px;
+
+}
+
+.image4 {
+
+  width: 50%;
+
+  padding-top: 30px;
+
+}
+
+.image5 {
+
+  width: 50%;
+
+  padding-top: 30px;
+
+}
+
+.tabelas {
+
+  width: 100%;
+
+  overflow-x: auto;
+
+}
+
+table {
+
+  border-collapse: collapse;
+
+  font-family: 'Times New Roman', Times, serif;
+
+  width: 50%;
+
+  margin-left: 25%;
+
+  margin-bottom: 20px;
+
+  position: relative;
+
+}
+
+.tab1 {
+
+  margin-left: 25%;
+
+}
+
+.tab2 {
+
+  margin-left: 5%;
+
+}
+
+.tab3 {
+
+  margin-left: 10%;
+
+}
+
+table caption {
+
+  caption-side: top;
+
+  font-size: 35px;
+
+}
+
+table td,
+table th {
+
+  border: 1px solid #000000;
+
+  font-size: 25px;
+
+  padding: 6px;
+
+  text-align: left;
+
+}
+
+table td {
+
+  background-color: #fff;
+
+}
+
+table th {
+
+  background-color: #438e6e;
+
+  color: white;
+
+}
+
+.qnt {
+
+  text-align: center;
+
+}
