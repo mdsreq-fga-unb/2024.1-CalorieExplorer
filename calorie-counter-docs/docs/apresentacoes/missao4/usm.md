@@ -1,8 +1,8 @@
 ## Atividade
 
-## Ver/val
+## Verificação
 
-| Tópicos                                                        | OK? |
+| Verificação                                                  | OK? |
 |----------------------------------------------------------------|-----|
 | 1 A USM segue a estrutura do Backbone?                               | ✅   |
 | Todas as pessoas foram mapeadas de forma correta? | ✅   |
@@ -11,6 +11,24 @@
 | As histórias de usuário estão descritas de maneira clara e consistente?                    | ✅   |
 | As priorizações das histórias no USM correspondem às prioridades dos stakeholders e usuários? | ✅   |
 | O método de priorização das USM foi feito da maneira correta?        | ✅   |
+
+## Validação
+| Tópicos                                                        | OK? |
+|----------------------------------------------------------------|-----|
+| A estrutura do USM segue o Backbone de forma clara e coerente?                           | ✅   |
+| O USM reflete a visão geral do produto de maneira intuitiva? | ✅   |
+| Todas as personas (tipos de usuários) foram mapeadas corretamente no USM?  | ✅   |
+|  As diferentes necessidades e jornadas de cada persona foram levadas em consideração?| ✅   |
+| Todas as User Stories estão identificadas corretamente e relacionadas aos requisitos do produto? | ✅   |
+| Todas as funcionalidades previstas no escopo do produto estão representadas? | ✅   |
+| As histórias de usuário estão descritas de maneira clara, evitando ambiguidades? | ✅   |
+| O método de priorização adotado no USM foi aplicado de maneira correta e consistente? | ✅   |
+| O método escolhido permite uma priorização eficiente em termos de valor entregue e esforço de implementação? | ✅   |
+
+
+
+
+
 
 |Data|Versão|Descrição|Autor|
 |------------|--------|------------------------------|---------------|
