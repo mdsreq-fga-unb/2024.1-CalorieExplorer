@@ -21,9 +21,15 @@ nav:
       - Definições: apresentacoes/missao2/dod.md
       - Backlog: apresentacoes/missao2/backlog.md
       - MVP: apresentacoes/missao2/mvp1.md
+      Lições Aprendidas: apresentacoes/missao2/aprendidas2.md
     - Missão 3:
       - PBB e PBI: apresentacoes/missao3/pbb_pbi.md
       - USM: apresentacoes/missao3/licoes_aprendidas3.md
+      - Lições Aprendidas: apresentacoes/missao3/aprendias3.md
+    - Missão 4: 
+      - Vel/val PBB: apresentacoes/missao4/pbb.md
+      - Vel/Val USM: apresentacoes/missao4/usm.
+      - Lições Aprendidas: apresentacoes/missao1/aprendidas4.md
   - Atividade(Missão 3):
     - Atividade do Product Backlog Building (PBB): unidade/pbb.md
     - Atividade do User Stories Mapping (USM): unidade/usm.md
