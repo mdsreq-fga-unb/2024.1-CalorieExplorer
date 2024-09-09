@@ -80,8 +80,8 @@ body {
 
 .sidebar {
     background-color: #fff;
-    width: 350px;
-    height: 1400px;
+    width: 150px;
+    height: 600px;
     border-bottom: 20px;
     padding: 20px;
     border-right: 1px solid #ccc;
@@ -125,7 +125,7 @@ body {
 
 .main-content {
     flex-grow: 1;
-    height: 1400px;
+    height: 600px;
     padding: 20px;
     background-color: #fff;
     border-radius: 0px 15px 15px 0px;
@@ -335,113 +335,4 @@ body {
   }
 
 
-  /*aqui po*/
-
-
-.section {
-    padding: 20px;
-    width: 210%;
-    margin-bottom: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-.section h2 {
-    font-size: 18px;
-    margin-bottom: 15px;
-}
-
-.btn {
-    background-color: #5451bb;
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 14px;
-}
-
-.btn:hover {
-    background-color: #5451bb;
-}
-
-.routine-item {
-    display: flex;
-    align-items: center;
-    margin-bottom: 10px;
-}
-
-.routine-item select,
-.routine-item input[type="text"] {
-    padding: 8px;
-    margin-right: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    flex-grow: 1;
-}
-
-.routine-item button {
-    padding: 8px;
-    border: none;
-    border-radius: 5px;
-    background-color: #5451bb;
-    color: white;
-    cursor: pointer;
-    margin-right: 5px;
-}
-
-.routine-item button:last-child {
-    background-color: #f44336;
-}
-
-.routine-item button:hover {
-    background-color: #5451bb;
-}
-
-.routine-item button:last-child:hover {
-    background-color: #e53935;
-}
-
-.add-habit-btn {
-    margin-top: 10px;
-}
-
-.macronutrient-analysis {
-    margin-top: 20px;
-}
-
-.macronutrient-analysis table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-bottom: 15px;
-}
-
-.macronutrient-analysis th,
-.macronutrient-analysis td {
-    padding: 10px;
-    border: 1px solid #ccc;
-    text-align: left;
-}
-
-.macronutrient-analysis th {
-    background-color: #f9f9f9;
-}
-
-.nutrient-chart {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.nutrient-chart img {
-    width: 150px;
-    height: 150px;
-}
-
-.nutrient-details {
-    list-style-type: none;
-    padding: 0;
-}
-
-.nutrient-details li {
-    margin-bottom: 5px;
-}
+ 
