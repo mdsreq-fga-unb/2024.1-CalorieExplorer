@@ -31,11 +31,11 @@ A **Definition of Ready (DoR)** define os critérios que uma história de usuár
   - [x] A história foi priorizada no backlog.
   - [x] A história foi estimada em termos de esforço.
 - **DoD**:
-  - [x] O código foi escrito e revisado.
-  - [x] Todos os testes unitários e de integração passaram.
-  - [x] A funcionalidade foi testada em diferentes dispositivos e navegadores.
+  - [ ] O código foi escrito e revisado.
+  - [ ] Todos os testes unitários e de integração passaram.
+  - [ ] A funcionalidade foi testada em diferentes dispositivos e navegadores.
   - [x] A documentação de login foi atualizada.
-  - [x] A funcionalidade foi revisada e aprovada pelo time de QA.
+  - [ ] A funcionalidade foi revisada e aprovada pelo time de QA.
   - [x] O login foi implantado no ambiente de testes e validado.
 
 ---
@@ -48,11 +48,11 @@ A **Definition of Ready (DoR)** define os critérios que uma história de usuár
   - [x] A história foi priorizada no backlog.
   - [x] A história foi estimada.
 - **DoD**:
-  - [x] O código de cadastro e login foi implementado e revisado.
-  - [x] Testes de segurança (ex: validação de dados) passaram.
-  - [x] A funcionalidade foi testada em diferentes navegadores.
+  - [ ] O código de cadastro e login foi implementado e revisado.
+  - [ ] Testes de segurança (ex: validação de dados) passaram.
+  - [ ] A funcionalidade foi testada em diferentes navegadores.
   - [x] A documentação foi atualizada.
-  - [x] Revisão pelo time de QA e validação no ambiente de testes.
+  - [ ] Revisão pelo time de QA e validação no ambiente de testes.
 
 ---
 
@@ -65,10 +65,10 @@ A **Definition of Ready (DoR)** define os critérios que uma história de usuár
   - [x] Estimada com precisão.
 - **DoD**:
   - [x] A lista de alimentos foi implementada e revisada.
-  - [x] Testes unitários e de integração realizados.
-  - [x] A interface foi testada em diferentes dispositivos.
-  - [x] Documentação atualizada.
-  - [x] Funcionalidade validada e revisada pelo QA.
+  - [ ] Testes unitários e de integração realizados.
+  - [ ] A interface foi testada em diferentes dispositivos.
+  - [ ] Documentação atualizada.
+  - [ ] Funcionalidade validada e revisada pelo QA.
 
 ---
 
@@ -80,11 +80,11 @@ A **Definition of Ready (DoR)** define os critérios que uma história de usuár
   - [x] A história foi priorizada.
   - [x] Estimada.
 - **DoD**:
-  - [x] O código foi implementado e revisado.
-  - [x] Testes de visualização e filtragem de dados foram executados.
-  - [x] Funcionalidade revisada pelo QA.
-  - [x] A interface foi testada e validada.
-  - [x] A documentação foi atualizada.
+  - [ ] O código foi implementado e revisado.
+  - [ ] Testes de visualização e filtragem de dados foram executados.
+  - [ ] Funcionalidade revisada pelo QA.
+  - [ ] A interface foi testada e validada.
+  - [ ] A documentação foi atualizada.
 
 ---
 
@@ -96,11 +96,11 @@ A **Definition of Ready (DoR)** define os critérios que uma história de usuár
   - [x] História priorizada no backlog.
   - [x] Estimada.
 - **DoD**:
-  - [x] A visualização do perfil foi implementada e revisada.
-  - [x] Testes unitários e de integração realizados.
-  - [x] A interface foi testada em dispositivos móveis e desktops.
+  - [ ] A visualização do perfil foi implementada e revisada.
+  - [ ] Testes unitários e de integração realizados.
+  - [ ] A interface foi testada em dispositivos móveis e desktops.
   - [x] Documentação foi atualizada.
-  - [x] Revisada e validada pelo QA.
+  - [ ] Revisada e validada pelo QA.
 
 ---
 
@@ -112,10 +112,10 @@ A **Definition of Ready (DoR)** define os critérios que uma história de usuár
   - [x] Priorizada no backlog.
   - [x] Estimada.
 - **DoD**:
-  - [x] O código foi implementado e revisado.
-  - [x] A funcionalidade foi testada e aprovada em diferentes dispositivos.
+  - [ ] O código foi implementado e revisado.
+  - [ ] A funcionalidade foi testada e aprovada em diferentes dispositivos.
   - [x] A documentação foi atualizada.
-  - [x] Funcionalidade revisada e validada pelo QA.
+  - [ ] Funcionalidade revisada e validada pelo QA.
 
 ---
 
@@ -127,10 +127,10 @@ A **Definition of Ready (DoR)** define os critérios que uma história de usuár
   - [x] Estimativa de esforço concluída.
   - [x] Priorizada no backlog.
 - **DoD**:
-  - [x] A funcionalidade foi implementada e revisada.
-  - [x] Testes de cálculo e validação de dados passaram.
-  - [x] Funcionalidade validada pelo QA.
-  - [x] Documentação atualizada e validada.
+  - [ ] A funcionalidade foi implementada e revisada.
+  - [ ] Testes de cálculo e validação de dados passaram.
+  - [ ] Funcionalidade validada pelo QA.
+  - [ ] Documentação atualizada e validada.
 
 ---
 
@@ -155,25 +155,25 @@ A **Definition of Ready (DoR)** define os critérios que uma história de usuár
   - [x] Dependências resolvidas (ex: integração de calendário, metas).
   - [x] História foi priorizada e estimada.
 - **DoD**:
-  - [x] A funcionalidade foi implementada e revisada.
-  - [x] Testes de calendário e metas foram realizados.
-  - [x] QA revisou e aprovou.
-  - [x] A documentação foi atualizada.
+  - [ ] A funcionalidade foi implementada e revisada.
+  - [ ] Testes de calendário e metas foram realizados.
+  - [ ] QA revisou e aprovou.
+  - [ ] A documentação foi atualizada.
 
 ---
 
 ### **US10** - Nutricionista monitorar progresso de pacientes
 - **DoR**:
-  - [x] A história foi claramente descrita.
+  - [] A história foi claramente descrita.
   - [x] Critérios de aceitação definidos.
   - [x] Dependências foram identificadas (ex: monitoramento, histórico).
   - [x] História foi priorizada.
   - [x] Estimada.
 - **DoD**:
-  - [x] O código foi implementado e revisado.
-  - [x] Testes de monitoramento de progresso foram realizados.
-  - [x] A funcionalidade foi validada pelo QA.
-  - [x] Documentação atualizada.
+  - [ ] O código foi implementado e revisado.
+  - [ ] Testes de monitoramento de progresso foram realizados.
+  - [ ] A funcionalidade foi validada pelo QA.
+  - [ ] Documentação atualizada.
 
 ---
 
@@ -185,10 +185,10 @@ A **Definition of Ready (DoR)** define os critérios que uma história de usuár
   - [x] História priorizada.
   - [x] Estimada.
 - **DoD**:
-  - [x] A funcionalidade foi implementada e revisada.
-  - [x] Testes de visualização de progresso realizados.
-  - [x] Funcionalidade revisada e validada pelo QA.
-  - [x] Documentação foi atualizada.
+  - [ ] A funcionalidade foi implementada e revisada.
+  - [ ] Testes de visualização de progresso realizados.
+  - [ ] Funcionalidade revisada e validada pelo QA.
+  - [ ] Documentação foi atualizada.
 
 ---
 
@@ -203,7 +203,7 @@ A **Definition of Ready (DoR)** define os critérios que uma história de usuár
   - [x] A funcionalidade foi implementada e revisada.
   - [x] Testes de visualização realizados.
   - [x] QA revisou e validou.
-  - [x] A documentação foi atualizada.
+  - [ ] A documentação foi atualizada.
 
 ---
 
@@ -218,7 +218,7 @@ A **Definition of Ready (DoR)** define os critérios que uma história de usuár
   - [x] A categorização de alimentos foi implementada.
   - [x] Testes unitários e de integração realizados.
   - [x] Funcionalidade revisada pelo QA.
-  - [x] Documentação foi atualizada.
+  - [ ] Documentação foi atualizada.
 
 ---
 
