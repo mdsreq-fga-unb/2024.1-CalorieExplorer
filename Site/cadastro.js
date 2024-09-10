@@ -6,7 +6,7 @@ const isenha = document.querySelector(".senha");
 const botao = document.querySelector("button");
 
 function cadastrar() {
-    fetch("http://localhost:3306/api/usuarios", {
+    fetch("http://localhost:8080/api/usuarios", {
         headers: {
             "Accept": "application/json",
             "Content-Type": "application/json"
