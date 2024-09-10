@@ -41,6 +41,13 @@ Definição e documentação dos requisitos não funcionais do produto
 Definição e documentação do MVP1 e 
 Estudo das tecnologias e configuração de ambiente
 
+**Protótipo de alta fidelidade**
+![alt text](image-11.png)
+![alt text](image-7.png)
+![alt text](image-8.png)
+![alt text](image-9.png)
+![alt text](image-10.png)
+
 ## Sprint 4
 Objetivo da Sprint 04: Implementação das US01, US02, US03.
 
