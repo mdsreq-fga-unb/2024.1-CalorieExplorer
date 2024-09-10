@@ -30,6 +30,9 @@ Equipe: **Estrela de Ares**
 | As features do produto estão identificadas?                    | ✅   |
 | A estrutura do PBI está correta?                               | ✅   |
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BaeleEZjf8k?si=DHvqoHqB1qYLtevn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Histórico de versão
 
  Data       | Versão | Descrição                        | Autor          |

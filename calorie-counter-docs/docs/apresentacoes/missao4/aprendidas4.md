@@ -5,3 +5,4 @@ Durante a verificação e validação do Product Backlog Building (PBB) e do Use
 |Data|Versão|Descrição|Autor|
 |------------|--------|------------------------------|---------------|
 |09/09/2024|1.0|Criação do Documento|Igor Justino|
+
