@@ -20,6 +20,9 @@ Neste ponto, abordamos a implementação do conceito de Mínimo Produto Viável 
 | US14 | Acesso a Recursos Educativos e FAQs             | 1. Acesso à seção de FAQ.<br>2. Atualização frequente dos conteúdos educativos.<br>3. Interface de fácil navegação.<br>4. Busca por palavras-chave.<br>5. Feedback sobre a utilidade dos recursos.                            |
 | US15 | Definição e Monitoramento de Metas Nutricionais | 1. Definição de metas nutricionais.<br>2. Monitoramento contínuo.<br>3. Notificação de progresso para o cliente.<br>4. Ajustes automáticos conforme progresso.<br>5. Relatórios de progresso detalhados.                      |
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/31z4EOa5eOc?si=UsBbf-Cf74wiovRX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 | Data       | Versão | Descrição                        | Autor                                               |
 | ---------- | ------ | -------------------------------- | --------------------------------------------------- |
 | 19/08/2024 | 1.0    | Adicionando as definições do MVP | Ana Catarina Santos, Nicolas Bonfim, Pedro Henrique |
