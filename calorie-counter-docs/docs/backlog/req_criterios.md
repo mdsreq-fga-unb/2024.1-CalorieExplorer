@@ -95,7 +95,7 @@ Essas decisões foram tomadas para concentrar os esforços da equipe nas funcion
 | 13/08/2024 | 1.1    | Ajustes do Backlog                      | André João C Gomes  |
 | 19/08/2024 | 1.2    | Reestruturação do projeto               | Ana Catarina Santos |
 | 04/09/2024 | 1.3    | Reestruturação do Backlog          | Igor S. Justino |
-| 09/09/2024 | 1.4    | Reestruturação do Backlog          | Igor S. Justino |
+| 08/09/2024 | 1.4    | Reestruturação do Backlog          | Igor S. Justino |
 
 
 Aqui está a versão ajustada dos requisitos funcionais, seguindo as sugestões anteriores:
