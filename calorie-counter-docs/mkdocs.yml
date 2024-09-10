@@ -9,7 +9,7 @@ nav:
     - Visão do Produto: visao_produto_projeto/visao_produto/visao_produto.md
     - Visão do Geral do Projeto: visao_produto_projeto/visao_projeto/visao_projeto.md
     - Processo de Desenvolvimento: visao_produto_projeto/processo_dev/processo_dev.md
-    - Sprints: visao_produto_projeto/processo_dev/sprints.md
+    - Sprints: visao_produto_projeto/processo_dev/sprint.md
   - Backlog:
     - Definições: backlog/definicoes.md
     - Backlog do Produto: backlog/req_criterios.md
